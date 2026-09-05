@@ -39,42 +39,89 @@ criterios de fuentes y estado actual. Las reglas de trabajo están en [`CLAUDE.m
 
 ```
 tesis/
-├── CLAUDE.md              Reglas de trabajo (marcadas por origen)
-├── gh-tesis               Envoltorio de gh aislado del entorno de trabajo
-├── 1-gestion/
-│   ├── CONTEXTO.md        ← FUENTE DE VERDAD del curso
-│   ├── cronograma.md      15 semanas + hitos de evaluación
-│   ├── preguntas-abiertas.md   Dudas para el profesor / asesor / coordinación
-│   ├── bitacora/          Una entrada por sesión de trabajo
-│   ├── asesorias/         Actas de reunión (artefacto de gestión evaluado)
-│   ├── plan-proyecto/     Alcance, cronograma, calidad, riesgos
-│   └── admin/             Documentos administrativos ya firmados
-├── 2-fuentes/             El activo que más valor acumula en 3 ciclos
-│   ├── guia-zotero.md
-│   ├── biblioteca.bib     Referencias (export de Zotero)
-│   ├── matriz-estado-arte.csv   → se convierte en la tabla del cap. 2.3
-│   ├── pdfs/              PDFs originales — solo renombrar, nunca editar
-│   ├── fichas/            Nota interna de lectura, una por artículo
-│   └── busquedas/         Registro de cada búsqueda, con fecha y cribado
-├── 3-documento/           Solo lo que TÚ escribes
-│   ├── trabajo/           Donde se escribe (Word)
-│   └── entregas/          Congeladas al entregar
-├── 4-paper/               El artículo científico (IEEE)
-├── 5-solucion/            Código y artefactos del aporte (ciclos IX-X)
-│   ├── data/raw/          Datos originales — inmutable
-│   ├── data/processed/    Datos derivados
-│   ├── src/               Código
-│   └── results/           Figuras, tablas, resultados
-├── 6-material-oficial/    TODO lo que da la universidad — SOLO LECTURA
-│   ├── general/           Transversal a los 3 ciclos (las 2 cartas a firmar)
-│   ├── 2026-25-seminario-investigacion/
-│   │   ├── clase-01/      Láminas y lecturas de clase
-│   │   ├── formatos/      Formularios a llenar (Plan de Trabajo, sem. 2)
-│   │   └── Línea de tiempo-202625.pdf
-│   ├── proyecto-investigacion-1/    (ciclo IX, vacío por ahora)
-│   └── proyecto-investigacion-2/    (ciclo X, vacío por ahora)
-└── 7-archivo/             Descartes y versiones muertas (no se borra)
+├── CLAUDE.md            Reglas de trabajo, marcadas por origen
+├── gh-tesis             Envoltorio de gh aislado del entorno de trabajo
+│
+├── 1-gestion/           Cómo va el proyecto: plazos, dudas, actas, bitácora
+├── 2-fuentes/           Lo que has leído: PDFs, fichas, referencias
+├── 3-documento/         La tesis: lo que escribes y lo que entregas
+├── 4-paper/             El artículo científico (IEEE)
+├── 5-solucion/          El aporte construido: código, datos, resultados
+├── 6-material-oficial/  Lo que da la universidad · SOLO LECTURA
+└── 7-archivo/           Lo descartado, por si hay que volver
 ```
+
+<details>
+<summary><b>Detalle de cada carpeta</b> — qué guarda y cuándo la tocas</summary>
+
+### `1-gestion/` — cómo va el proyecto
+
+| | Qué guarda | Cuándo lo tocas |
+|---|---|---|
+| `CONTEXTO.md` | Hechos del curso: estructura de capítulos, pesos, criterios de fuentes, estado actual | **Al empezar cualquier sesión** |
+| `cronograma.md` | Las 15 semanas, los hitos de evaluación y la carga de artículos | Al planificar la semana |
+| `preguntas-abiertas.md` | Dudas para asesor / profesor / coordinación, con la pregunta literal lista para copiar | Antes de cada asesoría |
+| `bitacora/` | Qué hiciste, qué decidiste y **por qué**. Una entrada por sesión | Al cerrar el día |
+| `asesorias/` | Actas de reunión — artefacto de gestión **evaluado** | Después de cada asesoría |
+| `plan-proyecto/` | Alcance, cronograma, calidad, riesgos | Semana 13 |
+| `admin/` | Documentos administrativos ya firmados | Semana 3 (las dos cartas) |
+
+### `2-fuentes/` — lo que has leído
+
+Es el activo que más valor acumula: se usa en los tres ciclos y crece hasta los 24 artículos.
+
+| | Qué guarda | Cuándo lo tocas |
+|---|---|---|
+| `busquedas/` | Cadena ejecutada, base, fecha y números del cribado, por búsqueda | Al buscar en Scopus o WoS |
+| `pdfs/` | Los artículos originales. Se renombran, **nunca se editan**. No se versionan en git | Al descargar un artículo |
+| `fichas/` | Una nota de lectura por artículo, con formato fijo para poder compararlos. **Uso interno** | Al fichar cada artículo |
+| `biblioteca.bib` | Todas las referencias, exportadas desde Zotero | Cada vez que añades artículos |
+| `matriz-estado-arte.csv` | Una fila por artículo → se convierte en la tabla comparativa del cap. 2.3 | Al fichar cada artículo |
+| `guia-zotero.md` | Cómo importar de Scopus, verificar cuartil y citar en APA-7 e IEEE | Al montar Zotero |
+
+### `3-documento/` — la tesis
+
+Todo lo de aquí lo escribes tú. No hay nada de solo lectura.
+
+| | Qué guarda | Cuándo lo tocas |
+|---|---|---|
+| `trabajo/` | Los `.docx` en los que escribes, copiados del formato oficial | A diario |
+| `entregas/` | Copia congelada de cada entrega evaluada, con su `git tag` | Al entregar TB1, TB2, TB3 |
+
+### `4-paper/` — el artículo científico
+
+Se redacta en **IEEE**, no en APA-7. Empieza en la semana 10 (título e introducción)
+y se refina hasta la 13. Avanza en los tres ciclos: Paper 1/3 → 2/3 → 3/3 publicado.
+
+| | Qué guarda |
+|---|---|
+| `borradores/` | Versiones del artículo en curso |
+| `figuras/` | Gráficos y diagramas del paper |
+
+### `5-solucion/` — el aporte construido
+
+Vacía durante el ciclo VIII. Se llena en Proyecto de Investigación 1 y 2.
+
+| | Qué guarda |
+|---|---|
+| `data/raw/` | Datos originales, **inmutables**. No se versionan en git |
+| `data/processed/` | Datos limpios y derivados |
+| `src/` | Código de la solución |
+| `results/` | Figuras, tablas y resultados generados |
+
+### `6-material-oficial/` — lo que da la universidad
+
+**Nada aquí se edita, renombra ni reorganiza.** Es la evidencia de lo que se pidió.
+
+| | Qué guarda |
+|---|---|
+| `general/` | Transversal a los 3 ciclos: las dos cartas a firmar |
+| `2026-25-seminario-investigacion/clase-01/` | Láminas y lecturas de la clase 1 |
+| `2026-25-seminario-investigacion/formatos/` | Formularios a llenar (Plan de Trabajo, semana 2) |
+| `2026-25-seminario-investigacion/*.pdf` | Línea de tiempo oficial del ciclo |
+| `proyecto-investigacion-1/` · `-2/` | Vacías: se llenan en los ciclos IX y X |
+
+</details>
 
 ### La regla que ordena todo
 
