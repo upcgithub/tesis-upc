@@ -141,21 +141,99 @@ acta (`asesorias/`) y aquí → si cambia una regla, se actualiza `CONTEXTO.md` 
 
 - **A quién:** Asesor o Coordinación (`pi-coordinacion-adts@upc.edu.pe`) · **Estado:** abierta · **Prioridad:** alta
 - **Por qué importa:** **vencen en la semana 3**. Es el plazo más cercano de todo el ciclo.
-- **Ya resuelto:** los dos formatos están en `6-material-oficial/`
+- **Ya resuelto:** los dos formatos están en `6-material-oficial/general/`
   (*Carta compromiso* y *Carta de responsabilidad de uso de IA*).
-- **Lo que falta:** el canal de entrega, y un dato que pide la carta de IA: el **código de proyecto**.
+- **Parcialmente resuelto:** los lineamientos Capstone aclaran que el **código de proyecto** viene
+  del **Site del Proyecto** que asigna coordinación, y que **una vez asignado no se puede cambiar**.
+  Falta saber si ya nos lo asignaron → pregunta #8.
+- **Lo que falta:** el canal de entrega de las cartas firmadas.
 
 > **Pregunta literal:**
 > "Ya tengo los formatos de la Carta de compromiso y la Declaración ética sobre uso de IA, que deben
-> presentarse firmadas como máximo en la semana 3. ¿Cómo se entregan: por el SharePoint del curso,
-> por correo a coordinación, o directamente al asesor? ¿Se envían escaneadas o firmadas digitalmente?
-> Además, la carta de IA pide un 'Código de Proyecto': ¿de dónde lo obtenemos y en qué momento se
-> nos asigna?"
+> presentarse firmadas como máximo en la semana 3. ¿Cómo se entregan: por el Site del curso,
+> por correo a coordinación, o directamente a usted? ¿Se envían escaneadas o firmadas digitalmente?"
 
 - **Respuesta:** _(pendiente)_
 
 **Datos que hay que reunir para llenarlas:** nombres completos, DNI y código UPC de ambos
 integrantes; código de proyecto; fecha.
+
+---
+
+### #8 — Site del Proyecto y código de proyecto
+
+- **A quién:** Coordinación (`pi-coordinacion-adts@upc.edu.pe`) · **Estado:** abierta · **Prioridad:** alta
+- **Por qué importa:** los lineamientos exigen **actualizar el Site del Proyecto al menos
+  semanalmente**, y eso *"forma parte de la Gestión del Proyecto, por lo que se considera en la
+  evaluación"*. Sin acceso al Site, esa parte de la nota no se puede cumplir. Además el código de
+  proyecto es dato obligatorio de la carta de IA, que vence en la semana 3.
+
+> **Pregunta literal:**
+> "Asunto: 1FIS0311: Semana 1: Acceso al Site del Proyecto
+>
+> Buenos días. Soy alumno del curso 1FIS0311 – Seminario de Investigación Aplicada (2026-25),
+> con el asesor Julio César Zácari Ramos. Según los lineamientos de cursos Capstone, cada proyecto
+> tiene un Site propio identificado con su código de proyecto, que debe actualizarse semanalmente.
+> ¿Ya nos fue asignado el Site y el código de nuestro proyecto? ¿Cómo accedemos?
+> Lo consulto porque el código es un dato requerido en la Declaración ética sobre uso de IA que
+> debemos presentar firmada en la semana 3. Gracias."
+
+- **Respuesta:** _(pendiente)_
+
+---
+
+### #9 — Estructura de carpetas del Site del Proyecto
+
+- **A quién:** Asesor · **Estado:** abierta · **Prioridad:** media
+- **Por qué importa:** los lineamientos dicen que la estructura *"se indica en la carpeta de
+  Documentos del curso en el Site del curso"*, pero no la incluyen. Conviene montarla bien desde
+  el inicio y no reorganizar a mitad de ciclo.
+
+> **Pregunta literal:**
+> "Los lineamientos indican que el Site del Proyecto debe estar organizado por carpetas según una
+> estructura publicada en el Site del curso. ¿Dónde la encuentro exactamente? ¿Y qué debe subirse
+> cada semana: solo las versiones de entregables y actas, o también material de trabajo intermedio?"
+
+- **Respuesta:** _(pendiente)_
+
+---
+
+### #10 — Usuario del escenario
+
+- **A quién:** Asesor · **Estado:** abierta · **Prioridad:** alta
+- **Por qué importa:** es un **tercer participante** que aún no tenemos. Los lineamientos lo piden
+  *"a partir de la segunda parte del curso 1FIS0311"*, y precisan que **no puede ser ninguno de los
+  dos integrantes** (segregación de funciones). Conseguirlo lleva tiempo y condiciona el escenario
+  del tema.
+
+> **Pregunta literal:**
+> "Los lineamientos mencionan que a partir de la segunda parte de SIA debemos contar con un usuario
+> especialista de la problemática y del escenario, con rol de Product Owner en caso de método ágil,
+> y que no puede ser ninguno de los integrantes. ¿Desde qué semana exactamente lo necesitamos?
+> ¿Qué nivel de compromiso se le pide: disponibilidad, número de reuniones, alguna carta o
+> constancia de la organización? ¿Su participación se evalúa de alguna forma?"
+
+- **Respuesta:** _(pendiente)_
+
+---
+
+### #11 — Método de elaboración de la solución
+
+- **A quién:** Asesor · **Estado:** abierta · **Prioridad:** media
+- **Por qué importa:** define toda la estructura del capítulo 3 y del trabajo en PI-1 y PI-2.
+  Los lineamientos plantean dos caminos distintos:
+  - **Desarrollo de Soluciones** — Ágil o Cascada, con Sprints o casos de uso; el core debe estar
+    terminado en PI-1 (75 % en PI-1, 25 % en PI-2)
+  - **Soluciones de Sistemas** — sin construcción de software: TOGAF, BPM, Six Sigma, CRISP-DM,
+    Kimball, ITIL, CMMI, ISO 27000, NIST 800, COBIT, auditoría, calidad
+
+> **Pregunta literal:**
+> "Según los lineamientos, la solución puede elaborarse como Desarrollo de Soluciones (ágil o
+> cascada) o como Solución de Sistemas usando marcos de buenas prácticas. ¿En qué momento debemos
+> decidir cuál de los dos caminos seguimos? ¿Esa decisión condiciona el tema que elijamos, o se
+> define después de tener el tema aprobado?"
+
+- **Respuesta:** _(pendiente)_
 
 ---
 

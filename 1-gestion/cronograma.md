@@ -57,6 +57,20 @@ Peso                                   20%             20%             60%
 | 14 | 30 nov | 6 dic | Revisión de capítulos 1 al 3.1 |
 | **15** | **7 dic** | **13 dic** | **TB3 30 % + DD 30 %** |
 
+## Obligaciones semanales (todo el ciclo)
+
+No son hitos puntuales: corren desde ya y **cuentan para la nota de gestión del proyecto**.
+De los *Lineamientos cursos Capstone 2026-25*, sección VI.
+
+| Cada semana | Detalle |
+|---|---|
+| **Acta de asesoría** | Se presenta como máximo **antes de la siguiente asesoría**. El asesor responde o da conformidad. Va en `1-gestion/asesorias/` |
+| **Actualizar el Site del Proyecto** | En SharePoint, al menos semanalmente: versiones de entregables, actas y plan de actividades |
+| **Asistir a la asesoría** | La inasistencia se registra en el sistema |
+
+> *"El cumplimiento de las actas de reunión, actualización del site de su proyecto y asistencia en
+> las asesorías, forman parte de la Gestión del Proyecto, por lo que se considera en la evaluación."*
+
 ## Hitos de evaluación
 
 | Nota | Peso | Semana | Fechas | Contenido | Documento se entrega |

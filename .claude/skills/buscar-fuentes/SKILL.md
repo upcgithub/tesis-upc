@@ -18,6 +18,25 @@ Si hace falta resultados: entregar las cadenas listas para pegar y pedir el expo
 Son **24 artículos** repartidos en 5 semanas (`CONTEXTO.md` §4), con dos revisiones aleatorias del
 asesor. Talleres oficiales de búsqueda: semana 3 (SCOPUS, WoS, SCIMAGO) y semana 6 (WoS, SCIMAGO, APA).
 
+## Accesos institucionales UPC 🟥
+
+De los *Lineamientos cursos Capstone 2026-25*, sección VIII. Las bases se entran por el proxy de
+la universidad (`upc.elogim.com`), que da acceso con la cuenta UPC:
+
+| Recurso | URL |
+|---|---|
+| **Scopus** | `https://scopus.upc.elogim.com/search/form.uri#basic` |
+| **Web of Science** | `https://webofscience.upc.elogim.com/wos/woscc/basic-search` |
+| **SJR — SCImago** (cuartiles) | `https://www.scimagojr.com/` |
+| **JCR** (cuartiles) | `https://biblioteca.upc.edu.pe/jcr` |
+| Citas y referencias APA-7 | `https://biblioteca.upc.edu.pe/citas-referencias-APA7` |
+| **APA-7 para citar IA** | `https://biblioteca.upc.edu.pe/citas-referencias-APA7/inteligencia-artificial` |
+| Curso de WoS de la biblioteca | `https://biblioteca.upc.edu.pe/CursoWos/` |
+| Guías temáticas | `https://biblioteca.upc.edu.pe/guiastematicas` |
+
+Otras bases que menciona el documento y pueden servir según el tema: **IEEE Xplore**,
+**ACM Digital Library**, **Access Engineering** (libros McGraw-Hill), **AENORmás** (normas técnicas).
+
 ## Paso 1 — Descomponer el tema 🟥
 
 Extraer los 4 componentes (`CONTEXTO.md` §6) y sus sinónimos en inglés:
