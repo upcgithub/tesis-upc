@@ -41,20 +41,28 @@ acta (`asesorias/`) y aquí → si cambia una regla, se actualiza `CONTEXTO.md` 
 
 ---
 
-### #2 — Nivel de detalle del anexo de uso de IA
+### #2 — ¿La declaración firmada reemplaza al anexo de prompts?
 
 - **A quién:** Asesor · **Estado:** abierta · **Prioridad:** alta
-- **Por qué importa:** es un anexo evaluado y **no se puede reconstruir hacia atrás**. Si pasan semanas
-  sin empezar el registro, ya no hay forma de documentar lo que se hizo.
-- **La duda:** el material dice *"citar las fuentes usadas por IAG, referenciarlas y relacionarlas en el
-  anexo los Prompts usados"*, pero no precisa la granularidad.
+- **Por qué importa:** si además de la carta hace falta un anexo con prompts, **hay que llevarlo desde
+  el día 1** — no se puede reconstruir hacia atrás en la semana 14.
+- **Lo que ya sabemos:** existe la **Declaración ética sobre el uso de IA generativa**, formato oficial
+  que se firma en la semana 3. Es una declaración general por *tipo de uso* (redacción preliminar,
+  comprensión conceptual, prototipado, estructura), no un registro de prompts.
+- **La duda:** la presentación inicial del curso dice aparte:
+  *"se debe citar las fuentes usadas por IAG, referenciarlas y relacionarlas en el anexo los Prompts
+  usados"*, y lista *"Uso de IA en elaboración del proyecto"* como anexo del documento.
+  ¿Son la misma cosa o dos entregables distintos?
 
 > **Pregunta literal:**
-> "Sobre el anexo de uso de IA en la elaboración del proyecto: ¿qué nivel de detalle espera?
-> ¿Un registro por secciones del documento, indicando el tipo de apoyo que se usó en cada una y
-> cómo se verificó la información? ¿O un listado de cada prompt individual utilizado?
-> Lo pregunto ahora porque quiero llevar el registro desde el inicio y no reconstruirlo al final.
-> ¿Hay un formato o plantilla oficial para ese anexo?"
+> "Ya tengo el formato de la Declaración ética sobre el uso de IA generativa que se firma en la
+> semana 3. Mi duda es si esa declaración cubre por completo el requisito, o si además el documento
+> de tesis debe llevar un anexo aparte de 'Uso de IA en la elaboración del proyecto'.
+> Lo pregunto porque la presentación inicial del curso menciona que hay que relacionar en el anexo
+> los prompts usados y referenciar las fuentes que empleó la IA.
+> Si ese anexo con prompts sí se pide: ¿qué nivel de detalle espera, un registro por secciones del
+> documento indicando el tipo de apoyo y cómo se verificó, o el listado de cada prompt individual?
+> Se lo consulto ahora porque quiero llevar ese registro desde el inicio del ciclo."
 
 - **Respuesta:** _(pendiente)_
 
@@ -129,19 +137,25 @@ acta (`asesorias/`) y aquí → si cambia una regla, se actualiza `CONTEXTO.md` 
 
 ---
 
-### #7 — Carta de compromiso
+### #7 — Entrega de las dos cartas firmadas
 
-- **A quién:** Coordinación (`pi-coordinacion-adts@upc.edu.pe`) · **Estado:** abierta · **Prioridad:** alta
-- **Por qué importa:** **vence en la semana 3**, firmada por ambos integrantes. Es el plazo más cercano.
+- **A quién:** Asesor o Coordinación (`pi-coordinacion-adts@upc.edu.pe`) · **Estado:** abierta · **Prioridad:** alta
+- **Por qué importa:** **vencen en la semana 3**. Es el plazo más cercano de todo el ciclo.
+- **Ya resuelto:** los dos formatos están en `3-documento/formatos-oficiales/`
+  (*Carta compromiso* y *Carta de responsabilidad de uso de IA*).
+- **Lo que falta:** el canal de entrega, y un dato que pide la carta de IA: el **código de proyecto**.
 
 > **Pregunta literal:**
-> "Buenos días. Soy alumno del curso 1FIS0311 – Seminario de Investigación Aplicada (2026-25).
-> Sobre la carta de compromiso que debe presentarse como máximo en la semana 3, firmada por ambos
-> integrantes del proyecto: ¿dónde puedo descargar el formato oficial, y a quién debe enviarse una
-> vez firmada? ¿Se entrega por el SharePoint del curso, por correo a coordinación, o al asesor?
-> Gracias."
+> "Ya tengo los formatos de la Carta de compromiso y la Declaración ética sobre uso de IA, que deben
+> presentarse firmadas como máximo en la semana 3. ¿Cómo se entregan: por el SharePoint del curso,
+> por correo a coordinación, o directamente al asesor? ¿Se envían escaneadas o firmadas digitalmente?
+> Además, la carta de IA pide un 'Código de Proyecto': ¿de dónde lo obtenemos y en qué momento se
+> nos asigna?"
 
 - **Respuesta:** _(pendiente)_
+
+**Datos que hay que reunir para llenarlas:** nombres completos, DNI y código UPC de ambos
+integrantes; código de proyecto; fecha.
 
 ---
 

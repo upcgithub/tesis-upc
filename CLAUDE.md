@@ -17,6 +17,11 @@ Cada regla lleva marcado su origen:
 Ni título, ni autores, ni año, ni DOI, ni journal, ni páginas. Una referencia falsa en una tesis es
 falta de integridad académica, y se detecta pidiendo el PDF.
 
+> Esto no es solo criterio interno: Hans **firma** una declaración ética que dice que todas las
+> fuentes fueron verificadas y citadas, *"sin asumir como válidas aquellas que pudieran ser generadas
+> automáticamente por herramientas de IA sin respaldo verificable"*, y que está preparado para
+> **defender oralmente todo el contenido** (`CONTEXTO.md` §8.1).
+
 - Toda entrada de `2-fuentes/biblioteca.bib` debe venir de un PDF real en `2-fuentes/pdfs/` o de un
   registro verificado en Scopus / WoS / el sitio del editor.
 - Lo que no se pueda verificar se escribe `[VERIFICAR]`. Nunca se rellena con algo plausible.
