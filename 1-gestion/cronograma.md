@@ -8,6 +8,31 @@ Ante cualquier duda, manda el PDF original.
 
 ---
 
+## Vista general del ciclo
+
+```
+Semana           1   2   3   4   5   6   7   8   9  10  11  12  13  14  15
+              ────────────────────────────────────────────────────────────
+Capítulo 1         ███ ███ ███
+Capítulo 2                     ███ ███ ███ ███ ███ ███
+  Artículos                        ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓
+Paper                                              ███ ███ ███ ███
+Capítulo 3                                             ███ ███ ███
+Artefactos                                                     ███ ███
+
+Entregas           PT  CA              TB1             TB2             TB3
+Peso                                   20%             20%             60%
+              ────────────────────────────────────────────────────────────
+```
+
+`PT` = Plan de Trabajo · `CA` = las dos cartas firmadas ·
+`TB3` en semana 15 incluye también **DD**: entre los dos suman el 60 %
+
+**Las dos cosas que este cuadro hace evidentes:**
+- Los **24 artículos** se concentran entre las semanas 6 y 10 — unos 5 por semana.
+- El **60 % de la nota** (TB3 + DD) se decide en la semana 15, y para entonces tienen que estar
+  listos el capítulo 3, el paper y los artefactos de gestión.
+
 ## Hitos de evaluación
 
 | Nota | Peso | Semana | Contenido | Documento se entrega |

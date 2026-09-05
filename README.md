@@ -1,6 +1,28 @@
 # Proyecto de Tesis — Ingeniería de Sistemas UPC
 
-Un solo proyecto de investigación, tres ciclos:
+**Un solo proyecto continuo repartido en tres ciclos**, no tres trabajos distintos.
+Cada curso continúa donde terminó el anterior, sobre el mismo documento y el mismo paper.
+
+```mermaid
+flowchart LR
+    subgraph C8["Ciclo VIII · 1FIS0311 — ACTUAL"]
+        direction TB
+        A1["Definición<br/>del problema"] --> A2["Estado<br/>del arte"] --> A3["Diseño<br/>del aporte"]
+    end
+    subgraph C9["Ciclo IX · 1FIS0307"]
+        direction TB
+        B1["Objetivo 1"] --> B2["Objetivo 2"] --> B3["Objetivo 3"]
+    end
+    subgraph C10["Ciclo X · 1FIS0308"]
+        direction TB
+        D1["Objetivo 4"] --> D2["Validación<br/>y resultados"] --> D3["Conclusiones"]
+    end
+    C8 ==> C9 ==> C10
+    P1["Paper 1/3"] -.-> P2["Paper 2/3"] -.-> P3["Paper 3/3<br/>publicado"]
+    C8 -.-> P1
+    C9 -.-> P2
+    C10 -.-> P3
+```
 
 | Ciclo | Curso | Produce |
 |---|---|---|
@@ -60,15 +82,22 @@ tesis/
 Todo lo demás lo produces tú.**
 
 De ahí se derivan las otras dos: los formatos de entregable los da el profesor semana a semana
-(si falta uno, se pide — no se inventa), y para trabajar **se copia** el original a `trabajo/`,
+(si falta uno, se pide — no se inventa), y para trabajar **se copia** el original,
 nunca se edita en su sitio.
 
-| Estado del archivo | Dónde vive | Editable |
-|---|---|---|
-| Lo da la universidad, en blanco | `6-material-oficial/` | Nunca |
-| Lo estás escribiendo | `3-documento/trabajo/` | Sí |
-| Lo entregaste, congelado | `3-documento/entregas/` | Nunca más |
-| Documento administrativo firmado | `1-gestion/admin/` | Terminado |
+```mermaid
+flowchart LR
+    A["<b>Formato oficial</b><br/>6-material-oficial/<br/><i>solo lectura</i>"]
+    B["<b>Copia de trabajo</b><br/>3-documento/trabajo/<br/><i>aquí escribes</i>"]
+    C["<b>Entrega congelada</b><br/>3-documento/entregas/<br/><i>+ git tag</i>"]
+    D["<b>Documento firmado</b><br/>1-gestion/admin/<br/><i>terminado</i>"]
+    A -->|copiar| B
+    B -->|skill revisar-entregable| C
+    A -->|"llenar y firmar<br/>(cartas)"| D
+```
+
+La ubicación de un archivo dice **quién es su dueño y en qué estado está**.
+La numeración `1-` a `7-` dice **cuándo lo trabajas**.
 
 ---
 
