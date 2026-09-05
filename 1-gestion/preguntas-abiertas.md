@@ -141,7 +141,7 @@ acta (`asesorias/`) y aquí → si cambia una regla, se actualiza `CONTEXTO.md` 
 
 - **A quién:** Asesor o Coordinación (`pi-coordinacion-adts@upc.edu.pe`) · **Estado:** abierta · **Prioridad:** alta
 - **Por qué importa:** **vencen en la semana 3**. Es el plazo más cercano de todo el ciclo.
-- **Ya resuelto:** los dos formatos están en `3-documento/formatos-oficiales/`
+- **Ya resuelto:** los dos formatos están en `6-material-oficial/`
   (*Carta compromiso* y *Carta de responsabilidad de uso de IA*).
 - **Lo que falta:** el canal de entrega, y un dato que pide la carta de IA: el **código de proyecto**.
 
@@ -170,5 +170,5 @@ _(vacío)_
 1. Anotar la respuesta bajo **Respuesta**
 2. Cambiar el estado a `respondida` y moverla a la sección *Respondidas* con la fecha
 3. Si la respuesta cambia una regla → actualizar `1-gestion/CONTEXTO.md`
-4. Si trae un formato oficial → guardarlo en `3-documento/formatos-oficiales/`
+4. Si trae un formato oficial → guardarlo en `6-material-oficial/<ciclo>/formatos/`
 5. Registrarla también en el acta de la asesoría correspondiente

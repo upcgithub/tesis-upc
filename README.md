@@ -25,7 +25,7 @@ tesis/
 │   ├── bitacora/          Una entrada por sesión de trabajo
 │   ├── asesorias/         Actas de reunión (artefacto de gestión evaluado)
 │   ├── plan-proyecto/     Alcance, cronograma, calidad, riesgos
-│   └── admin/             Carta de compromiso, control de cambios
+│   └── admin/             Documentos administrativos ya firmados
 ├── 2-fuentes/             El activo que más valor acumula en 3 ciclos
 │   ├── guia-zotero.md
 │   ├── biblioteca.bib     Referencias (export de Zotero)
@@ -33,25 +33,38 @@ tesis/
 │   ├── pdfs/              PDFs originales — solo renombrar, nunca editar
 │   ├── fichas/            Nota interna de lectura, una por artículo
 │   └── busquedas/         Registro de cada búsqueda, con fecha y cribado
-├── 3-documento/
-│   ├── formatos-oficiales/   .docx del profesor — SOLO LECTURA
-│   ├── trabajo/              Donde se escribe (Word)
-│   └── entregas/             Congeladas al entregar
+├── 3-documento/           Solo lo que TÚ escribes
+│   ├── trabajo/           Donde se escribe (Word)
+│   └── entregas/          Congeladas al entregar
 ├── 4-paper/               El artículo científico (IEEE)
 ├── 5-solucion/            Código y artefactos del aporte (ciclos IX-X)
 │   ├── data/raw/          Datos originales — inmutable
 │   ├── data/processed/    Datos derivados
 │   ├── src/               Código
 │   └── results/           Figuras, tablas, resultados
-├── 6-material-curso/      Material original del profesor — SOLO LECTURA
+├── 6-material-oficial/    TODO lo que da la universidad — SOLO LECTURA
+│   ├── general/           Transversal a los 3 ciclos (cartas a firmar)
+│   └── 2026-25-seminario-investigacion/
+│       ├── clase-01/      Material de clase
+│       └── formatos/      Formatos de entregables de este ciclo
 └── 7-archivo/             Descartes y versiones muertas (no se borra)
 ```
 
-### Regla clave
+### La regla que ordena todo
 
-**Los formatos de entregable los da el profesor, semana a semana.** Van a
-`3-documento/formatos-oficiales/` intactos, y se escribe sobre copias en `trabajo/`.
-Si falta un formato, se pide — no se inventa.
+**Si lo dio la universidad, está en `6-material-oficial/` y no se toca.
+Todo lo demás lo produces tú.**
+
+De ahí se derivan las otras dos: los formatos de entregable los da el profesor semana a semana
+(si falta uno, se pide — no se inventa), y para trabajar **se copia** el original a `trabajo/`,
+nunca se edita en su sitio.
+
+| Estado del archivo | Dónde vive | Editable |
+|---|---|---|
+| Lo da la universidad, en blanco | `6-material-oficial/` | Nunca |
+| Lo estás escribiendo | `3-documento/trabajo/` | Sí |
+| Lo entregaste, congelado | `3-documento/entregas/` | Nunca más |
+| Documento administrativo firmado | `1-gestion/admin/` | Terminado |
 
 ---
 

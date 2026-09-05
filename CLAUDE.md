@@ -38,7 +38,7 @@ tal — nunca como parte del estado del arte.
 ## 🟥 3. Los formatos de entregable los da el profesor
 
 **Nunca crear un formato propio para algo que se entrega.** El profesor publica el formato oficial
-de cada entregable semana a semana; van a `3-documento/formatos-oficiales/` y se usan tal cual.
+de cada entregable semana a semana; van a `6-material-oficial/` y se usan tal cual.
 
 Si falta el formato de un entregable: **se pide, no se inventa.** Anotarlo en
 `1-gestion/preguntas-abiertas.md`.
@@ -69,8 +69,7 @@ APA-7 en el documento de tesis. **IEEE** en el paper. Nunca mezclados en un mism
 
 ## 🟥 7. Material de solo lectura
 
-`6-material-curso/` y `3-documento/formatos-oficiales/` **no se editan, no se renombran, no se
-reorganizan.** Son la evidencia de lo que se pidió.
+`6-material-oficial/` **no se edita, no se renombra, no se reorganiza.** Es la evidencia de lo que se pidió.
 `2-fuentes/pdfs/` tampoco: el PDF descargado se puede renombrar, nunca modificar. Las notas van en
 `2-fuentes/fichas/`.
 

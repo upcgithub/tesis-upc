@@ -1,6 +1,6 @@
 # Cronograma — 1FIS0311 Seminario de Investigación Aplicada (2026-25)
 
-Transcripción de `6-material-curso/2026-25-seminario-investigacion/2.- 1FIS0311_Línea de tiempo-202625.pdf`.
+Transcripción de `6-material-oficial/2026-25-seminario-investigacion/2.- 1FIS0311_Línea de tiempo-202625.pdf`.
 Ante cualquier duda, manda el PDF original.
 
 **Unidades:** U1 = sem. 1-4 · U2 = sem. 5-10 · U3 = sem. 11-13 · U5 = sem. 14-15

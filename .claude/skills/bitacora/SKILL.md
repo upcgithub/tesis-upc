@@ -59,4 +59,4 @@ Van en `1-gestion/asesorias/YYYY-MM-DD-acta.md`, sobre `_plantilla-acta.md`.
 Después de cada asesoría:
 - ¿Respondió alguna pregunta abierta? → cerrarla en `preguntas-abiertas.md` con la respuesta
 - ¿Cambió alguna regla o criterio? → actualizar `CONTEXTO.md`
-- ¿Dio un formato oficial nuevo? → guardarlo en `3-documento/formatos-oficiales/`
+- ¿Dio un formato oficial nuevo? → guardarlo en `6-material-oficial/<ciclo>/formatos/`

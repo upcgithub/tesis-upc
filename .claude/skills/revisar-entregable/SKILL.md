@@ -25,7 +25,7 @@ De `1-gestion/cronograma.md`:
 > Si aún no hay respuesta del asesor, **recordárselo a Hans al revisar**.
 
 **Primero de todo:** verificar que se está usando el **formato oficial del profesor**
-(`3-documento/formatos-oficiales/`), no un formato improvisado (regla 🟥3).
+(`6-material-oficial/`), no un formato improvisado (regla 🟥3).
 
 ## Paso 2 — Bloqueantes 🟥
 

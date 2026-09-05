@@ -38,5 +38,5 @@
 
 ---
 **Después del acta:** cerrar preguntas respondidas en `preguntas-abiertas.md`,
-actualizar `CONTEXTO.md` si cambió una regla, y guardar en `3-documento/formatos-oficiales/`
+actualizar `CONTEXTO.md` si cambió una regla, y guardar en `6-material-oficial/`
 cualquier formato nuevo que haya entregado.

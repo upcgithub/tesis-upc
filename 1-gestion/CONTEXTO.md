@@ -1,7 +1,7 @@
 # CONTEXTO — Hechos del proyecto de tesis
 
 > **Fuente de verdad** sobre reglas, fechas y criterios del curso.
-> Todo lo de aquí está transcrito del material oficial en `6-material-curso/`.
+> Todo lo de aquí está transcrito del material oficial en `6-material-oficial/`.
 > Si algo no está aquí ni en el material oficial, **no se asume: se anota en
 > `preguntas-abiertas.md` y se pregunta.**
 > Última actualización: 2026-09-04
@@ -56,7 +56,7 @@ Trabajo en **grupo de 2 estudiantes**.
 ## 3. Estructura del documento de tesis
 
 Estructura exigida. *(Los formatos concretos de cada entregable los entrega el profesor
-semana a semana → `3-documento/formatos-oficiales/`.)*
+semana a semana → `6-material-oficial/`.)*
 
 - **Capítulo 1: Definición del proyecto**
   - Antecedentes (contexto)

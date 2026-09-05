@@ -15,7 +15,7 @@ Estructura exigida 🟥 (`CONTEXTO.md` §3):
 | 2.4 | Discusión y resultados para el proyecto | TB2 (sem. 11) |
 
 **El documento se escribe en Word**, sobre el formato oficial del profesor
-(`3-documento/formatos-oficiales/`). Aquí se prepara el contenido, no el formato.
+(`6-material-oficial/`). Aquí se prepara el contenido, no el formato.
 
 ## 2.1 Metodología y planificación
 
