@@ -201,6 +201,7 @@ Con **cumplimiento progresivo de los indicadores de éxito**. Cada eslabón debe
 - **SharePoint del curso:**
   `https://upcedupe.sharepoint.com/sites/PROYECTODEINVESTIGACION-EPE/SitePages/SEMINARIO%20INVESTIGACION.aspx`
 - **Profesor 1FIS0311 (2026-25):** Eduardo Fernando Gomero Córdova
+- **Asesor asignado:** MBA Ing. Julio César Zácari Ramos · pcisjzac@upc.edu.pe · 985 544 084
 - **Subárea Investigación y Capstone:** Yolfer Hernández · **Área:** Alejandra Vargas
 - **Por curso:** IS311 → Eduardo Gomero · IS307 → Nelly Huarcaya · IS308 → Jymmy Dextre
 
@@ -217,7 +218,7 @@ Consultas sobre elaboración → al **asesor**. Consultas de gestión → a **co
 - **Ciclo:** 2026-25 · 1FIS0311 Seminario de Investigación Aplicada
 - **Semana actual:** _(por definir)_
 - **Compañero de equipo:** _(por definir)_
-- **Asesor asignado:** _(por definir)_
+- **Asesor asignado:** MBA Ing. Julio César Zácari Ramos (pcisjzac@upc.edu.pe)
 - **Tema:** _(por definir)_
 - **Próximo entregable:** Plan de Trabajo de Investigación — semana 2
 - **Preguntas abiertas:** 7 → ver `preguntas-abiertas.md`
