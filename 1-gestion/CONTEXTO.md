@@ -170,45 +170,15 @@ organizaciones similares con ese problema. *"Se crea un mercado para el aporte."
 
 ## 8. Compromisos y normas de gestión
 
-- **Dos cartas a firmar por ambos integrantes, máximo semana 3.** Formatos en
-  `3-documento/formatos-oficiales/`; las firmadas van a `1-gestion/admin/`:
-  1. **Carta de compromiso de cumplimiento** — compromiso de responsabilidad, ética, cumplimiento
-     del reglamento, entregables y asistencia a asesorías. Incluye la cláusula de que, si un
-     integrante no puede continuar, **cede sus aportes y derechos de autor al que sigue activo**.
-     Pide: nombres, DNI y código de alumno UPC de ambos.
-  2. **Declaración ética sobre el uso de IA generativa** — ver §8.1
+- **Carta de compromiso** firmada por ambos integrantes: **máximo hasta la semana 3** → `1-gestion/admin/`
 - **Cambios de tema o integrantes:** con aprobación del asesor **hasta la semana 4** sin documento
   de control de cambios; de la 5 a la 8 **sí** lo requiere. Enviar a `pi-coordinacion-adts@upc.edu.pe`
 - **Redacción:** APA-7 en el documento; **IEEE** en el paper
+- **Uso de IA generativa:** obligatorio citar las fuentes usadas por la IAG, referenciarlas y
+  anexar los prompts. *(Nivel de detalle: pregunta #2 en `preguntas-abiertas.md`)*
 - **Cumplimiento normativo:** por ejemplo **ISO 42001** (gestión de sistemas de IA)
 - **Actas de reunión** de asesoría → `1-gestion/asesorias/`
 - Deseable: asesor especialista del sector donde está la situación problemática
-
-### 8.1 Uso de IA generativa — qué se firma
-
-La **Declaración ética sobre el uso de herramientas de IA generativa** (formato oficial,
-elaborado con el asesor académico Yolfer Hernández) compromete a los firmantes a que:
-
-- Se usó IA generativa (incluido Microsoft Copilot) como **apoyo técnico**: redacción preliminar,
-  comprensión conceptual, prototipado de código, estructura de documentos
-- Todo contenido asistido por IA fue **revisado, validado, comprendido, adaptado y complementado**
-  por los autores, de modo que cada sección refleje su pensamiento académico y autoría original
-- Las **decisiones fundamentales**, el diseño de soluciones, la interpretación de resultados y las
-  reflexiones son trabajo personal e independiente de los autores
-- Todas las fuentes externas fueron **verificadas y citadas**, sin asumir como válidas aquellas
-  generadas automáticamente por IA **sin respaldo verificable**
-- Los autores están **preparados para defender oralmente todo el contenido**
-
-Texto de declaración a incorporar en el proyecto:
-> *"Este trabajo incorpora apoyo parcial de IA generativa para fines técnicos y redaccionales.
-> Todo contenido final ha sido validado, adaptado y comprendido por el autor como parte del
-> proceso académico."*
-
-Pide además: firmas, códigos de ambos alumnos, **código de proyecto** y fecha.
-
-> **Pendiente:** esta carta es una *declaración firmada*. La presentación inicial del curso menciona
-> además un **anexo con los prompts usados** dentro del documento de tesis. No está claro si son lo
-> mismo o dos cosas distintas → **pregunta #2** en `preguntas-abiertas.md`.
 
 ---
 
