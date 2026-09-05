@@ -18,6 +18,7 @@ criterios de fuentes y estado actual. Las reglas de trabajo están en [`CLAUDE.m
 ```
 tesis/
 ├── CLAUDE.md              Reglas de trabajo (marcadas por origen)
+├── gh-tesis               Envoltorio de gh aislado del entorno de trabajo
 ├── 1-gestion/
 │   ├── CONTEXTO.md        ← FUENTE DE VERDAD del curso
 │   ├── cronograma.md      15 semanas + hitos de evaluación
@@ -43,10 +44,13 @@ tesis/
 │   ├── src/               Código
 │   └── results/           Figuras, tablas, resultados
 ├── 6-material-oficial/    TODO lo que da la universidad — SOLO LECTURA
-│   ├── general/           Transversal a los 3 ciclos (cartas a firmar)
-│   └── 2026-25-seminario-investigacion/
-│       ├── clase-01/      Material de clase
-│       └── formatos/      Formatos de entregables de este ciclo
+│   ├── general/           Transversal a los 3 ciclos (las 2 cartas a firmar)
+│   ├── 2026-25-seminario-investigacion/
+│   │   ├── clase-01/      Láminas y lecturas de clase
+│   │   ├── formatos/      Formularios a llenar (Plan de Trabajo, sem. 2)
+│   │   └── Línea de tiempo-202625.pdf
+│   ├── proyecto-investigacion-1/    (ciclo IX, vacío por ahora)
+│   └── proyecto-investigacion-2/    (ciclo X, vacío por ahora)
 └── 7-archivo/             Descartes y versiones muertas (no se borra)
 ```
 
@@ -73,10 +77,12 @@ nunca se edita en su sitio.
 1. Abrir `1-gestion/CONTEXTO.md` §11 y `cronograma.md` → qué semana es y qué toca
 2. Buscar fuentes con la skill `buscar-fuentes` → registro en `2-fuentes/busquedas/`
 3. Fichar cada artículo aceptado (`fichar-articulo`) → ficha + BibTeX + fila de matriz
-4. Redactar en Word sobre el formato oficial, citando desde Zotero
+4. **Copiar** el formato de `6-material-oficial/<ciclo>/formatos/` a `3-documento/trabajo/`
+   y redactar ahí en Word, citando desde Zotero. El original nunca se edita.
 5. Cerrar con la skill `bitacora` y un commit
 
-**Antes de cada entrega:** skill `revisar-entregable`.
+**Antes de cada entrega:** skill `revisar-entregable`. Congela la copia en `3-documento/entregas/`
+y etiqueta en git (`git tag TB1-2026-25`).
 
 ## Skills disponibles
 
@@ -93,10 +99,25 @@ nunca se edita en su sitio.
 - **Gestor bibliográfico:** Zotero → `2-fuentes/guia-zotero.md`
 - **Bases:** Scopus, Web of Science, SCImago (cuartiles)
 - **Texto de PDF:** `pdftotext -layout archivo.pdf -`
-- **Git:** aislado de la configuración de trabajo. Usar `./gh-tesis` en vez de `gh`.
 
-## Estado
+### Git
 
-Carga del ciclo: **24 artículos** Q1/Q2 entre las semanas 6 y 10.
-Evaluaciones: TB1 (sem. 7, 20 %) · TB2 (sem. 11, 20 %) · TB3 (sem. 15, 30 %) · DD (sem. 15, 30 %).
-**7 preguntas abiertas** pendientes de asesoría → `1-gestion/preguntas-abiertas.md`.
+Repo privado en `github.com/upcgithub/tesis-upc`, **aislado del entorno de trabajo**:
+la identidad de git es local a este repo y la credencial de GitHub vive en `.gh/`
+(ignorada por git). No toca `~/.gitconfig` ni la cuenta de `github.disney.com`.
+
+- `git add` / `commit` / `push` / `pull` funcionan normal
+- Para comandos de GitHub usar **`./gh-tesis`** en lugar de `gh`
+
+---
+
+## Estado del ciclo 2026-25
+
+| | |
+|---|---|
+| Carga | **24 artículos** Q1/Q2 entre las semanas 6 y 10 (~5 por semana) |
+| Evaluaciones | TB1 sem. 7 (20 %) · TB2 sem. 11 (20 %) · TB3 sem. 15 (30 %) · DD sem. 15 (30 %) |
+| Plazo más cercano | **Semana 3:** entregar firmadas las dos cartas de `6-material-oficial/general/` |
+| Preguntas abiertas | **7** pendientes de asesoría → `1-gestion/preguntas-abiertas.md` |
+
+**Por definir:** tema, compañero de equipo y asesor → actualizar `CONTEXTO.md` §11.
