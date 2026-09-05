@@ -27,7 +27,7 @@ Ante cualquier duda, manda el PDF original.
 |---|---|---|---|
 | **1** | Presentación del curso · Conformación de integrantes · Definición de temas · Conceptos de Tesis e Investigación · Tema y propuesta | Definición de integrantes de proyectos · Revisión de propuestas | Elaboración del **Plan de Trabajo** |
 | **2** | Definición del problema: contexto (antecedentes), descripción e importancia · Redacción del problema | **Plan de Trabajo de Investigación (según formato)** · Revisión Plan de Trabajo | Elaboración de antecedentes y definición del problema |
-| **3** | Definición del problema: análisis de situación problemática, diagnóstico y formulación · Definición de objetivos | Revisión antecedentes y definición del problema | Elaboración propuesta de solución: objetivos · Lectura: uso de IA para mejorar la redacción |
+| **3** | Definición del problema: análisis de situación problemática, diagnóstico y formulación · Definición de objetivos | Revisión antecedentes y definición del problema · **Entregar firmadas: Carta de compromiso + Declaración ética de uso de IA** (plazo máximo) | Elaboración propuesta de solución: objetivos · Lectura: uso de IA para mejorar la redacción |
 | **4** | Artículo científico · Estado del arte: fundamentos y conceptos · Estado del arte: metodología | Revisión de propuesta del Trabajo de Investigación | Revisar y mejorar la definición del proyecto · Lectura: marco teórico |
 
 > 🛠 **Taller semana 3:** Búsqueda de artículos — SCOPUS, WoS, SCIMAGO
