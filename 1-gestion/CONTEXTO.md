@@ -51,6 +51,16 @@ Trabajo en **grupo de 2 estudiantes**.
 
 **No hay postergaciones**, salvo modificación determinada por la universidad.
 
+**Sustentación:** dura entre 20 y 30 minutos e incluye presentación, exposición o demostración,
+más preguntas. Es **obligatoria la participación de ambos integrantes**. En la evaluación final
+es obligatoria una presentación en **PPT o similar**, y puede evaluarla un profesor distinto al
+asesor.
+
+**Riesgo:** el incumplimiento de la entrega dentro del plazo o de la sustentación equivale a
+**NSP (cero)** según el reglamento de estudios.
+
+Las **rúbricas** de cada entregable se publican en el Site del curso antes de la evaluación.
+
 ---
 
 ## 3. Estructura del documento de tesis
@@ -155,6 +165,29 @@ Ejemplo oficial:
 El problema debe **abstraerse de la organización**. La solución debe servir a todas las
 organizaciones similares con ese problema. *"Se crea un mercado para el aporte."*
 
+### Los objetivos deben ser SMART
+
+**e**specíficos · **m**edibles · **a**lcanzables · **r**elevantes · **t**emporales
+(realizables desde SIA hasta PI-2).
+
+**Objetivo general:** una sola oración, en singular, encabezada por un verbo en infinitivo:
+
+> Propuesta (desarrollar, implementar…) de un producto para solucionar un problema utilizando
+> técnicas TI, para un escenario, a fin de lograr beneficios (tiempo, costo, riesgo…).
+
+**Objetivos específicos:** se sugieren **4**, orientados a entregables medibles:
+
+1. Obtener el diagnóstico del análisis de la situación problemática
+2. Diseñar la propuesta de solución
+3. Construir / desarrollar / implementar la solución
+4. Validar la solución
+
+Cada uno debe corresponder a un problema que el proyecto resuelve. **No** describen la metodología,
+las técnicas ni los beneficios.
+
+**Herramientas de análisis del problema** que admite el documento de lineamientos: diagrama de
+Ishikawa, árbol problema-causa-efecto, FODA, Pareto, histograma — para identificar las causas raíz.
+
 ---
 
 ## 7. Técnicas/herramientas admitidas
@@ -177,8 +210,31 @@ organizaciones similares con ese problema. *"Se crea un mercado para el aporte."
 - **Uso de IA generativa:** obligatorio citar las fuentes usadas por la IAG, referenciarlas y
   anexar los prompts. *(Nivel de detalle: pregunta #2 en `preguntas-abiertas.md`)*
 - **Cumplimiento normativo:** por ejemplo **ISO 42001** (gestión de sistemas de IA)
-- **Actas de reunión** de asesoría → `1-gestion/asesorias/`
 - Deseable: asesor especialista del sector donde está la situación problemática
+
+### Obligaciones semanales — cuentan para la nota de gestión
+
+- **Site del Proyecto (SharePoint):** cada proyecto tiene un Site con su **código único**, asignado
+  por coordinación y **no modificable** una vez asignado. Debe actualizarse **al menos semanalmente**
+  con versiones de entregables, actas y plan de actividades.
+- **Actas de asesoría semanales:** se presentan como máximo antes de la siguiente asesoría;
+  el asesor da su conformidad. → `1-gestion/asesorias/`
+- El cumplimiento de actas, actualización del Site y asistencia a asesorías **forma parte de la
+  evaluación de Gestión del Proyecto**.
+
+### Usuario del escenario — tercer participante
+
+A partir de la **segunda parte de SIA** se necesita un especialista de la organización donde se
+validará la solución (Product Owner si el método es ágil). Por segregación de funciones,
+**no puede ser ninguno de los dos integrantes**.
+
+Participa en el diagnóstico de la situación problemática, provee información para el análisis y
+desarrollo, y participa en el diseño y validación de la solución.
+
+### Correos a coordinación
+
+Asunto con el formato: `curso: código de proyecto: día de asesoría: requerimiento`
+Ejemplo: `1FIS0307: 261-2858-01-CR: Miércoles: Acceso al Site del Curso`
 
 ---
 
