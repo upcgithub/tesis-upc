@@ -216,7 +216,7 @@ Consultas sobre elaboración → al **asesor**. Consultas de gestión → a **co
 > Actualizar cada semana. Es lo primero que se lee al retomar el trabajo.
 
 - **Ciclo:** 2026-25 · 1FIS0311 Seminario de Investigación Aplicada
-- **Semana actual:** _(por definir)_
+- **Semana actual:** 1 (31 ago – 6 sep 2026). La semana 2 inicia el **lunes 7 de septiembre**
 - **Compañero de equipo:** _(por definir)_
 - **Asesor asignado:** MBA Ing. Julio César Zácari Ramos (pcisjzac@upc.edu.pe)
 - **Tema:** _(por definir)_

@@ -33,14 +33,38 @@ Peso                                   20%             20%             60%
 - El **60 % de la nota** (TB3 + DD) se decide en la semana 15, y para entonces tienen que estar
   listos el capítulo 3, el paper y los artefactos de gestión.
 
+## Calendario
+
+> ⚠️ **Fechas derivadas, no oficiales.** Calculadas a partir de que la semana 2 inicia el
+> lunes 7 de septiembre de 2026. **Contrastar con el calendario académico UPC**, sobre todo
+> por feriados que puedan correr alguna semana.
+
+| Sem | Del | Al | Hito |
+|---|---|---|---|
+| 1 | 31 ago | 6 sep | |
+| **2** | **7 sep** | **13 sep** | **Plan de Trabajo de Investigación** |
+| **3** | **14 sep** | **20 sep** | **Las dos cartas firmadas** (plazo máximo) |
+| 4 | 21 sep | 27 sep | |
+| 5 | 28 sep | 4 oct | |
+| 6 | 5 oct | 11 oct | Informe de análisis de artículos 1-4 |
+| **7** | **12 oct** | **18 oct** | **TB1 — 20 %** · revisión aleatoria art. 1-4 |
+| 8 | 19 oct | 25 oct | |
+| 9 | 26 oct | 1 nov | Revisión aleatoria art. 5-14 |
+| 10 | 2 nov | 8 nov | Empieza el paper |
+| **11** | **9 nov** | **15 nov** | **TB2 — 20 %** |
+| 12 | 16 nov | 22 nov | |
+| 13 | 23 nov | 29 nov | Artefactos de gestión |
+| 14 | 30 nov | 6 dic | Revisión de capítulos 1 al 3.1 |
+| **15** | **7 dic** | **13 dic** | **TB3 30 % + DD 30 %** |
+
 ## Hitos de evaluación
 
-| Nota | Peso | Semana | Contenido | Documento se entrega |
-|---|---|---|---|---|
-| TB1 | 20 % | 7 | Hasta capítulo 2.2 | 2 días antes |
-| TB2 | 20 % | 11 | Capítulo 2 completo | 2 días antes |
-| TB3 | 30 % | 15 | Capítulo 3 (Diseño) | 3 días antes |
-| DD | 30 % | 15 | Evaluación de Desempeño — ABET | día de la clase 15 |
+| Nota | Peso | Semana | Fechas | Contenido | Documento se entrega |
+|---|---|---|---|---|---|
+| TB1 | 20 % | 7 | 12–18 oct | Hasta capítulo 2.2 | 2 días antes |
+| TB2 | 20 % | 11 | 9–15 nov | Capítulo 2 completo | 2 días antes |
+| TB3 | 30 % | 15 | 7–13 dic | Capítulo 3 (Diseño) | 3 días antes |
+| DD | 30 % | 15 | 7–13 dic | Evaluación de Desempeño — ABET | día de la clase 15 |
 
 **No hay postergaciones.** Trabajar siempre contra la fecha del documento, no la de la sustentación.
 
