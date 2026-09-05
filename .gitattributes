@@ -1,0 +1,6 @@
+*.md   diff=markdown
+*.bib  diff=bibtex
+*.csv  diff
+*.pdf  binary
+*.docx binary
+*.png  binary

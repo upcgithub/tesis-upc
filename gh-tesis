@@ -1,0 +1,5 @@
+#!/bin/sh
+# gh aislado para este repo: usa su propia configuracion y credenciales,
+# sin tocar ~/.config/gh (donde vive la cuenta de github.disney.com).
+export GH_CONFIG_DIR="$(cd "$(dirname "$0")" && pwd)/.gh"
+exec gh "$@"

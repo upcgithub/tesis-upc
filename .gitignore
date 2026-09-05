@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Autenticacion aislada de gh — CONTIENE TOKEN, nunca se versiona
+.gh/
+
+# Office / LibreOffice temporales
+~$*
+.~lock.*
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# Python / Node
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+.ipynb_checkpoints/
+
+# PDFs de papers: pesados y con licencia de terceros.
+# Se versiona la estructura y las fichas, no los PDFs.
+2-fuentes/pdfs/*
+!2-fuentes/pdfs/.gitkeep
+
+# Datos crudos pesados
+5-solucion/data/raw/*
+!5-solucion/data/raw/.gitkeep
+
+# Secretos
+.env
+*.key
