@@ -40,3 +40,6 @@ node_modules/
 # Secretos
 .env
 *.key
+
+# Datos personales de los integrantes (DNI). Nunca salen de la máquina.
+1-gestion/admin/datos-integrantes.md

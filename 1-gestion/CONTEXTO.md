@@ -4,7 +4,7 @@
 > Todo lo de aquí está transcrito del material oficial en `6-material-oficial/`.
 > Si algo no está aquí ni en el material oficial, **no se asume: se anota en
 > `preguntas-abiertas.md` y se pregunta.**
-> Última actualización: 2026-09-04
+> Última actualización: 2026-09-05
 
 ---
 
@@ -273,8 +273,8 @@ Consultas sobre elaboración → al **asesor**. Consultas de gestión → a **co
 
 - **Ciclo:** 2026-25 · 1FIS0311 Seminario de Investigación Aplicada
 - **Semana actual:** 1 (31 ago – 6 sep 2026). La semana 2 inicia el **lunes 7 de septiembre**
-- **Compañero de equipo:** _(por definir)_
+- **Compañera de equipo:** Alejandra Perla Camere (u20231D871@upc.edu.pe)
 - **Asesor asignado:** MBA Ing. Julio César Zácari Ramos (pcisjzac@upc.edu.pe)
 - **Tema:** _(por definir)_
 - **Próximo entregable:** Plan de Trabajo de Investigación — semana 2
-- **Preguntas abiertas:** 7 → ver `preguntas-abiertas.md`
+- **Preguntas abiertas:** 11 → ver `preguntas-abiertas.md`
