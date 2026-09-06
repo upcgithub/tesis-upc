@@ -277,7 +277,7 @@ Consultas sobre elaboración → al **asesor**. Consultas de gestión → a **co
 - **Asesor asignado:** MBA Ing. Julio César Zácari Ramos (pcisjzac@upc.edu.pe)
 - **Tema (propuesta preliminar, semana 2):**
   *Sistema de gestión y priorización de prospectos de aporte con segmentación analítica para
-  instituciones culturales sin fines de lucro*
+  museos privados sin fines de lucro*
   - **Escenario:** Museo de Arte Contemporáneo de Lima (MAC)
   - **Repliegue** si el asesor descarta la prospección de empresas (pregunta #12):
     *Sistema de gestión y conversión de donantes con segmentación analítica para incrementar la

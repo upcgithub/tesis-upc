@@ -259,7 +259,7 @@ Emisión de credencial digital: **2 días**, manual.
 
 **Título propuesto (opción amplia):**
 > Sistema de gestión y priorización de prospectos de aporte con segmentación analítica para
-> instituciones culturales sin fines de lucro
+> museos privados sin fines de lucro
 
 **Título de repliegue (si las empresas no son viables):**
 > Sistema de gestión y conversión de donantes con segmentación analítica para incrementar la
