@@ -87,11 +87,38 @@ TS=(("donor retention" OR "donor churn" OR "membership retention")
 ```
 Refinar: *Publication Years* 2023-2026 · *Document Types* Article
 
-**Resultados:**
 
-| Cadena | Base | Fecha | N devueltos | N útiles |
-|---|---|---|---|---|
-| | | | | |
+### Ejecutada — Scopus, 2026-09-06
+
+**Cadena:** la equilibrada de arriba, tal cual.
+**Resultado: 15 documentos.** Pocos (el rango cómodo son 50-300), lo que indica que el cruce
+retención/conversión de donantes × sector no lucrativo y cultural está poco explorado.
+
+> Los cuartiles **NO están verificados todavía**. Hay que comprobarlos uno por uno en SCImago,
+> con el año de publicación del artículo. Hasta entonces, `[VERIFICAR]`.
+
+| # | Autor, año | Título | Revista | Cuartil | Valoración |
+|---|---|---|---|---|---|
+| 6 | Sinha, Malik, Mahajan & ter Hofstede, 2025 | Retain, reactivate or acquire: Can nonprofits reliably use community profiles as an alternative to past donation data? | Journal of Business Research, 186, 114997 | [VERIFICAR] | **CLAVE** — usar perfiles demográficos comunitarios cuando NO hay historial de donación. Es exactamente nuestro caso |
+| 4 | Hesse, 2025 | Using Machine Learning to Understand and Manage the Transformation of Peer Donors to Organizational Donors | Nonprofit Management and Leadership, 36(1) | [VERIFICAR] | **CLAVE** — ML aplicado a la transformación de donantes. Open access |
+| 10 | Hoskins & Hoskins, 2024 | Age as a determinant of new donor acquisition and year-on-year retention in the university healthcare fundraising context | Journal of Philanthropy and Marketing, 29(2), e1864 | [VERIFICAR] | **ALTA** — variable demográfica como predictor; tenemos edad de los 1080 |
+| 11 | Pressgrove, McKeever, McKeever & Waters, 2024 | Investigating Membership Retention: Employing Public Relations Theory to Better Understand Relationship Management | Journal of Nonprofit and Public Sector Marketing, 36(1) | [VERIFICAR] | **ALTA** — retención de membresías |
+| 2 | Teck et al., 2026 | Strategies for Membership Growth in Nonprofit Organizations: Evidence from Lions Clubs New Zealand | International Review of Management and Marketing, 16(5) | [VERIFICAR] | **ALTA** — crecimiento de membresía; revisar cuartil, puede ser bajo |
+| 9 | Shehu, Veseli, Clement & Winterich, 2024 | Improving Blood Donor Retention and Donor Relationships with Past Donation Use Appeals | Journal of Service Research, 27(3) | [VERIFICAR] | MEDIA — retención, dominio distinto |
+| 13 | Chell, Mortimer, Masser & Russell-Bennett, 2023 | An Identity-Based Model Explaining Online Donor Appreciation | Australasian Marketing Journal, 31(1) | [VERIFICAR] | MEDIA — reconocimiento al donante; conecta con el problema de las credenciales |
+| 5 | Marteau, 2025 | The power of micro-campaigns in an annual giving programme | Journal of Education Advancement and Marketing, 10(2) | [VERIFICAR] | MEDIA — campañas en programas de aporte anual |
+| 14 | Samek & Longfield, 2023 | Do Thank-You Calls Increase Charitable Giving? Expert Forecasts and Field Experimental Evidence | American Economic Journal: Applied Economics, 15(2) | [VERIFICAR] | MEDIA — evidencia experimental sobre fidelización |
+| 3 | Lemons, Hudson & Mazzei, 2025 | Experience design: Creating value for nonprofits | Business Horizons, 68(5) | [VERIFICAR] | MEDIA |
+| 12 | Ali, Elaref & Yacout, 2023 | The effect of charity brand experience on donors' behavioral intentions | International Review on Public and Nonprofit Marketing, 20(4) | [VERIFICAR] | BAJA |
+| 1 | Utaramat & Palusuk, 2026 | The Influence of Blood Donation Experience on Donor Behavior Through Donor Pride in Thailand | Journal of Nonprofit and Public Sector Marketing | [VERIFICAR] | BAJA — donación de sangre |
+| 7 | Zheng, Liu, Tang & Yang, 2025 | Failed charity fundraising and strengthened benevolence | Journal of Marketing Theory and Practice | [VERIFICAR] | BAJA |
+| 15 | Lawson-Body et al., 2023 | Cybersecurity and Social Media Networks for Donations | Journal of Organizational and End User Computing, 35(1) | [VERIFICAR] | BAJA — tangencial |
+| 8 | Romero & Abril, 2024 | Exploring the dimensions of NGO donor-based brand equity: **A literature review** | Nonprofit Management and Leadership, 35(1) | — | **EXCLUIDO** — es una revisión, prohibida por el curso |
+
+**Aprendizaje del cribado:** `DOCTYPE(ar)` NO eliminó el #8, porque Scopus lo clasifica como
+*Article* aunque su título dice *"A literature review"*. **El filtro automático no basta: hay que
+revisar título y resumen de cada resultado.**
+
 
 ---
 
