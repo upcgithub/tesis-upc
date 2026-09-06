@@ -120,6 +120,58 @@ retención/conversión de donantes × sector no lucrativo y cultural está poco 
 revisar título y resumen de cada resultado.**
 
 
+### Ejecutada 2 — Scopus, 2026-09-06 (cadena ampliada con términos de CONVERSIÓN)
+
+**Corrección aplicada:** la primera cadena se centraba en *retención*, pero el problema del proyecto
+es de *conversión*. Se añadieron: donor acquisition, donor conversion, membership growth,
+donor development, donor lifecycle, supporter journey, member conversion.
+
+**Cadena:**
+```
+TITLE-ABS-KEY(("donor retention" OR "donor acquisition" OR "donor conversion" OR "donor churn"
+ OR "membership retention" OR "membership growth" OR "donor development" OR "donor lifecycle"
+ OR "supporter journey" OR "member conversion")
+ AND (nonprofit OR "non-profit" OR charity OR philanthrop* OR fundraising OR museum
+ OR "cultural institution" OR "arts organization"))
+AND PUBYEAR > 2022 AND DOCTYPE(ar) AND LANGUAGE(english)
+```
+
+**Resultado: 18 documentos.**
+
+#### Nuevos respecto a la primera cadena (8)
+
+| Autor, año | Título | Revista | Cuartil | Valoración |
+|---|---|---|---|---|
+| Shekhtman & Barabási, 2023 | Philanthropy in art: locality, donor retention, and prestige | Scientific Reports, 13(1), 12157 | [VERIFICAR] | **CLAVE** — filantropía en ARTE, retención y **localidad** (geografía). Tenemos direcciones de los 1080. Barabási es referente en ciencia de redes |
+| Song, Rashid, Li & Wang, 2025 | Predictive Decision Analytics for Membership Retention and Expansion in Martial Arts Organisations | Decision Making Applications in Management and Engineering, 8(2) | [VERIFICAR] | **CLAVE** — analítica predictiva para retención Y expansión de membresías. Dominio distinto, problema idéntico. Open access |
+| Jensen, Kassow, Shaker & Sum, 2026 | Exploring the Role of Special Events in Relationship Fundraising | Nonprofit Management and Leadership | [VERIFICAR] | **ALTA** — el MAC capta amigos por eventos |
+| Hansen & Dula, 2023 | What do you value? Examining gendered responses to appeal letters | Journal of Philanthropy and Marketing, 28(2), e1776 | [VERIFICAR] | **ALTA** — el sexo como variable de segmentación; lo tenemos de los 1080. Open access |
+| Hoskins, VanEpps, Hoskins & Scammon, 2025 | How service encounters predict donor behavior: evidence from a university health system | Journal of Services Marketing, 39(4) | [VERIFICAR] | MEDIA |
+| Pension, 2026 | Beyond Resource Exchange: Externalities in a Nonprofit Theater and University Partnership | Journal of Arts Management Law and Society | [VERIFICAR] | MEDIA — sector cultural |
+| Morrison, Teare & Shier, 2026 | Strategic ambitions and operational realities: community sport and the 2026 FIFA World Cup | Sport Management Review | [VERIFICAR] | BAJA — fuera de tema |
+| Woolum, 2023 | Striking for Victory: The Women's International Bowling Congress's World War II Effort | Journal of Sport History | [VERIFICAR] | **DESCARTAR** — historia deportiva, ruido |
+
+#### Lección metodológica importante
+
+**La cadena "amplia" NO fue un superconjunto de la primera.** Sinha et al. (2025) —el artículo más
+relevante de todos— **no apareció** en la segunda, porque se cayeron los términos `"lapsed donor"`
+y `"donor loyalty"` que lo capturaban.
+
+> Ampliar una cadena cambiando términos **no garantiza conservar** lo que ya habías encontrado.
+> Por eso hay que registrar cada cadena por separado y trabajar con la **unión** de resultados,
+> nunca reemplazar una búsqueda por otra.
+
+#### Balance acumulado
+
+| | |
+|---|---|
+| Cadena 1 | 15 resultados |
+| Cadena 2 | 18 resultados |
+| **Únicos tras unión** | **~23** |
+| Excluidos (revisión, fuera de tema) | 2 |
+| **Con relevancia alta o clave** | **~10** |
+
+
 ---
 
 ## Capa 3 — La técnica: segmentación analítica de donantes
