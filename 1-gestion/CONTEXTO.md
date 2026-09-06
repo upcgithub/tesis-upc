@@ -275,6 +275,13 @@ Consultas sobre elaboración → al **asesor**. Consultas de gestión → a **co
 - **Semana actual:** 1 (31 ago – 6 sep 2026). La semana 2 inicia el **lunes 7 de septiembre**
 - **Compañera de equipo:** Alejandra Perla Camere (u20231D871@upc.edu.pe)
 - **Asesor asignado:** MBA Ing. Julio César Zácari Ramos (pcisjzac@upc.edu.pe)
-- **Tema:** _(por definir)_
+- **Tema (propuesta preliminar, semana 2):**
+  *Sistema de gestión y priorización de prospectos de aporte con segmentación analítica para
+  instituciones culturales sin fines de lucro*
+  - **Escenario:** Museo de Arte Contemporáneo de Lima (MAC)
+  - **Repliegue** si el asesor descarta la prospección de empresas (pregunta #12):
+    *Sistema de gestión y conversión de donantes con segmentación analítica para incrementar la
+    captación y fidelización de aportes en museos privados sin fines de lucro*
+  - Plazo para cambiar alcance sin control de cambios: **semana 4 (21-27 sep)**
 - **Próximo entregable:** Plan de Trabajo de Investigación — semana 2
-- **Preguntas abiertas:** 11 → ver `preguntas-abiertas.md`
+- **Preguntas abiertas:** 12 → ver `preguntas-abiertas.md`

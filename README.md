@@ -194,6 +194,6 @@ la identidad de git es local a este repo y la credencial de GitHub vive en `.gh/
 | Carga | **24 artículos** Q1/Q2 entre las semanas 6 y 10 (~5 por semana) |
 | Evaluaciones | TB1 sem. 7 (20 %) · TB2 sem. 11 (20 %) · TB3 sem. 15 (30 %) · DD sem. 15 (30 %) |
 | Plazo más cercano | **Semana 3:** entregar firmadas las dos cartas de `6-material-oficial/general/` |
-| Preguntas abiertas | **11** pendientes de asesoría → `1-gestion/preguntas-abiertas.md` |
+| Preguntas abiertas | **12** pendientes de asesoría → `1-gestion/preguntas-abiertas.md` |
 
 **Por definir:** tema, compañero de equipo y asesor → actualizar `CONTEXTO.md` §11.

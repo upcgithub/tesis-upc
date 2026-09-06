@@ -237,6 +237,64 @@ integrantes; código de proyecto; fecha.
 
 ---
 
+### #12 — Alcance del tema: ¿incluir prospección de empresas?
+
+- **A quién:** Asesor · **Estado:** abierta · **Prioridad:** máxima
+- **Por qué importa:** define el alcance del proyecto para los tres ciclos. Hay que resolverlo
+  **antes de la semana 4** (21-27 sep), que es el límite para cambiar tema o alcance sin
+  documento de control de cambios.
+
+**Contexto del escenario (MAC Lima):**
+
+| | Cantidad | Datos disponibles |
+|---|---|---|
+| Amigos vecinos (sin aporte) | 1080 | antigüedad, nombre, dirección, teléfono, edad, sexo |
+| Amigos aportantes — personas | 25 | Excel desde 2023 |
+| Amigos aportantes — empresas | 5 | todo en correos |
+| Conversiones históricas vecino → aportante | **1** | tasa de 0,09 % |
+
+Aportes **anuales**; los aportantes renuevan **en su aniversario** (distribuidos en el año),
+los vecinos se renuevan automáticamente. Captación actual: por eventos.
+Emisión de credencial digital: **2 días**, manual.
+
+**Título propuesto (opción amplia):**
+> Sistema de gestión y priorización de prospectos de aporte con segmentación analítica para
+> instituciones culturales sin fines de lucro
+
+**Título de repliegue (si las empresas no son viables):**
+> Sistema de gestión y conversión de donantes con segmentación analítica para incrementar la
+> captación y fidelización de aportes en museos privados sin fines de lucro
+
+**El riesgo que preocupa:** con 5 empresas donantes no hay datos internos para modelar propensión,
+y el ciclo de decisión de un patrocinio corporativo supera la ventana de validación de PI-2 (~4 meses).
+La alternativa sería validar la *calidad de la priorización* por juicio de experto, no la captación real.
+
+> **Pregunta literal:**
+> "Profesor, le comparto el escenario de nuestro proyecto: el MAC Lima tiene 1080 miembros
+> 'vecinos' sin aporte, 25 aportantes personas y 5 aportantes empresa. Históricamente solo un
+> vecino se ha convertido en aportante, o sea una tasa de conversión de 0,09 %, y toda la gestión
+> de aportes, comprobantes y credenciales se hace hoy por correo, sin sistema.
+>
+> Nuestra propuesta es un sistema de gestión que incorpore un modelo de segmentación analítica
+> para priorizar a quién dirigir las campañas de conversión.
+>
+> Tenemos una duda de alcance. Nos interesa incluir también la prospección de nuevos aportantes
+> empresa, pero vemos dos riesgos: con solo 5 empresas donantes no hay datos internos suficientes
+> para un modelo de propensión, y el ciclo de decisión de un patrocinio corporativo probablemente
+> excede la ventana de validación de PI-2.
+>
+> ¿Recomienda incluir las empresas como objetivo específico secundario, validado por juicio de
+> experto en lugar de por captación real? ¿O es preferible acotar el proyecto solo a la conversión
+> de miembros no aportantes, donde sí tenemos datos y línea base?
+>
+> Y una segunda duda: ¿le parece que la segmentación de 1080 registros con variables demográficas,
+> enriquecida con datos públicos por distrito, constituye aporte suficiente para la tesis, o
+> esperaría una técnica de mayor profundidad?"
+
+- **Respuesta:** _(pendiente)_
+
+---
+
 ## Respondidas
 
 _(vacío)_
