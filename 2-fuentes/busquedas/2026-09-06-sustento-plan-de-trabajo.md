@@ -172,6 +172,98 @@ y `"donor loyalty"` que lo capturaban.
 | **Con relevancia alta o clave** | **~10** |
 
 
+### Abstracts leídos — 2026-09-06
+
+> Datos extraídos **de los resúmenes en Scopus**, no de los textos completos.
+> Antes de citar cualquiera de estas cifras en la tesis hay que **leer el artículo completo**
+> y verificar el dato en la fuente. Cuartiles todavía sin verificar.
+
+#### Hallazgos con dato citable
+
+**Hesse (2025) — Nonprofit Management and Leadership, 36(1). Open access.**
+*Using Machine Learning to Understand and Manage the Transformation of Peer Donors to Organizational Donors*
+- Datos de encuesta, n = 706
+- Entre donantes sin afiliación previa a la organización, la probabilidad de transformarse en
+  donante organizacional es **14,1 %** (≈ 1 de cada 7)
+- La comunicación posterior a la donación **triplicó** las probabilidades de transformación
+- La confianza en la organización **no** mostró influencia
+- **Random forest predijo la transformación con 79 % de exactitud**, superando ligeramente a la
+  regresión logística
+- Propósito declarado: identificar qué donantes tienen más probabilidad de transformarse para
+  asignar esfuerzos de captación
+
+→ **Es el precedente metodológico directo del proyecto.** Hace exactamente lo que proponemos:
+predecir quién se convierte, para priorizar el esfuerzo.
+
+**Shekhtman & Barabási (2023) — Scientific Reports, 13(1), 12157. Open access.**
+*Philanthropy in art: locality, donor retention, and prestige*
+- Dataset IRS e-file: **36 000 M USD** en subvenciones, 46 643 fundaciones → 48 766 receptores de
+  arte, entre 2010 y 2019
+- La donación sigue una **distribución de ley de potencias**: pocos donantes aportan mucho más
+- **El 60 % de las subvenciones va a receptores del mismo estado del donante** → la donación al
+  arte es fuertemente **local**
+- **Cerca del 70 % de las relaciones donante-receptor continúan al año siguiente**
+- El financiamiento correlaciona con el prestigio institucional
+
+→ Respalda usar la **dirección** como variable de segmentación, y da cifras del sector arte.
+
+**Jensen, Kassow, Shaker & Sum (2026) — Nonprofit Management and Leadership.**
+*Exploring the Role of Special Events in Relationship Fundraising*
+- Datos longitudinales de una fundación universitaria
+- La asistencia repetida a eventos se asocia fuertemente con donar
+- La intimidad del evento se asocia con donación de corto plazo, pero el efecto se atenúa
+- **Los aportes mayores NO se predicen por eventos**, sino por el trato uno a uno con el personal
+  y por la capacidad económica del donante
+
+→ El MAC capta por eventos. Y esto respalda la cautela sobre las empresas (pregunta #12): los
+aportes grandes no salen de eventos ni de sistemas, salen de relación individual.
+
+**Hoskins, VanEpps, Hoskins & Scammon (2025) — Journal of Services Marketing, 39(4).**
+*How service encounters predict donor behavior*
+- 10 años de datos de un sistema de salud universitario
+- La **frecuencia** de visitas ambulatorias predice positivamente la captación de nuevos donantes,
+  la repetición y el monto
+- Las visitas de emergencia u hospitalización tienen impacto **nulo o negativo**
+- La tasa de respuesta a encuestas de satisfacción también predice captación
+
+→ La relación se construye con interacciones **frecuentes y pequeñas**, no con eventos aislados.
+Si el MAC registra visitas de los vecinos, sería una variable predictora fuerte.
+
+**Hoskins & Hoskins (2024) — Journal of Philanthropy and Marketing, 29(2), e1864. Open access.**
+*Age as a determinant of new donor acquisition and year-on-year retention*
+- Dataset de 10 años de una universidad Research One
+- Los prospectos **mayores se captan a tasas más altas** que los jóvenes
+- Pero una vez captados, el efecto de la edad sobre la **retención es plano o negativo**
+- Los donantes jóvenes sí tienen capacidad y voluntad de dar
+- Recomienda **segmentar el mensaje por grupo etario**
+
+→ Respalda usar la edad como variable, y matiza cómo: sirve para captar, no para retener.
+
+#### Correcciones tras leer los resúmenes
+
+**Song et al. (2025) — BAJA, no CLAVE.** Por el título parecía analítica predictiva de membresías.
+El resumen revela que es sobre **evaluación de técnica de artes marciales** con CNN y BiLSTM para
+reconocimiento de movimiento. La conexión con retención de miembros es indirecta.
+→ Ejemplo de por qué **no se puede valorar un artículo por el título**.
+
+**Hansen & Dula (2023).** Resultado **negativo**: no encontraron mejora significativa en la
+respuesta a cartas de captación al alinear el mensaje con valores por género. Útil precisamente
+por eso: advierte contra segmentar el mensaje solo por sexo.
+
+**Chell et al. (2023) — Australasian Marketing Journal, 31(1).**
+El reconocimiento en línea (insignia digital compartible) fortalece la identidad del donante
+frente a un correo de agradecimiento privado, y mejora la retención.
+→ Conecta directamente con el problema del **carnet digital** del MAC.
+
+**Samek & Longfield (2023) — American Economic Journal: Applied Economics, 15(2).**
+Experimento de campo con **500 000 donantes nuevos**. Los profesionales de captación predijeron
+que las llamadas de agradecimiento aumentarían la retención en un **80 %**. El resultado fue un
+**efecto nulo**, medido con precisión.
+→ Argumento potente: la intuición de los expertos falla. Hace falta decidir con datos.
+
+**Woolum (2023) — DESCARTAR.** Historia del bowling femenino en la Segunda Guerra Mundial.
+**Morrison et al. (2026) — DESCARTAR.** Mundial FIFA 2026 y clubes deportivos comunitarios.
+
 ---
 
 ## Capa 3 — La técnica: segmentación analítica de donantes
