@@ -124,20 +124,6 @@ institucionales del sector cultural.
 4. **Verificar** el cumplimiento de los indicadores de éxito mediante la validación de la solución
    en un escenario real.
 
-### Indicadores de éxito preliminares
-
-> Elegidos para ser medibles dentro de la ventana de validación de PI-2 (~4 meses).
-> Los aportantes renuevan en su aniversario, de modo que hay renovaciones distribuidas durante todo
-> el año y no concentradas en una sola fecha.
-
-| # | Indicador | Línea base |
-|---|---|---|
-| OE1 | % de miembros con ficha de datos completa y trazable | [DATO PENDIENTE] |
-| OE1 | % de aportes con comprobante localizable y fecha cierta | [DATO PENDIENTE] |
-| OE3 | Tiempo de emisión de una credencial digital | **2 días** (manual) |
-| OE4 | Tasa de respuesta a campaña dirigida por segmento vs. campaña general | [DATO PENDIENTE] |
-| OE4 | Renovaciones gestionadas con seguimiento durante el periodo de validación | ~10 en 4 meses |
-
 ---
 
 ## Referencias
@@ -156,5 +142,5 @@ institucionales del sector cultural.
 | 2 | Evidencia sectorial sobre dependencia de donaciones en museos | búsqueda |
 | 3 | Evidencia sobre retención y conversión de donantes, de fuente primaria | búsqueda |
 | 4 | Argumento con literatura de por qué un CRM comercial no resuelve el problema | búsqueda |
-| 5 | Líneas base de los indicadores marcados como pendientes | Alejandra |
+| 5 | Cobertura de la taquilla sobre el costo de operación del museo | Alejandra |
 | 6 | Confirmación del alcance con el asesor (pregunta #12) | Hans |
