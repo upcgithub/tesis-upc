@@ -4,8 +4,8 @@
 > Mapea cada decisión del tema contra el criterio exacto del material oficial del curso,
 > y lista los puntos débiles con su respuesta preparada.
 >
-> Fuentes: `U1-S1-1. Tesis, Investigación y Tema.pdf` · `_Lineamientos cursos Capstone 2026-25 (SIA-PI1).pdf`
-> · `_Plan de Trabajo de Investigación (Entrega Semana 2).docx`
+> Fuentes: `U1-S1-1. Tesis, Investigación y Tema.pdf` · `U1-S2-1. Definición del problema.pdf`
+> · `_Lineamientos cursos Capstone 2026-25 (SIA-PI1).pdf` · `_Plan de Trabajo de Investigación (Entrega Semana 2).docx`
 
 **Tema:** Sistema de gestión y priorización de prospectos de aporte con segmentación analítica
 para museos privados sin fines de lucro
@@ -23,7 +23,7 @@ para museos privados sin fines de lucro
 
 | Pregunta | Nuestra respuesta | Verificación del requisito |
 |---|---|---|
-| ¿Qué se desea resolver? | Baja conversión de miembros no aportantes en aportantes, y gestión manual sin trazabilidad del aporte | *"Debe ser de interés por algún sector empresarial, gubernamental, social, científico, ingenieril"* → sector cultural sin fines de lucro |
+| ¿Qué se desea resolver? | Que la base de aportantes no crece: 0,09 % de conversión. La gestión manual sin trazabilidad es **causa**, no un segundo problema (ver A.11) | *"Debe ser de interés por algún sector empresarial, gubernamental, social, científico, ingenieril"* → sector cultural sin fines de lucro |
 | ¿Qué se propone? | Sistema de gestión con modelo de segmentación analítica que prioriza prospectos | *"Debe corresponder a la carrera de Ing. de Sistemas"* → sistema de información con componente analítico |
 | ¿Con qué? | Analítica de datos, segmentación no supervisada, enriquecimiento con datos públicos, CRISP-DM | *"Debe corresponder a Tecnologías de Información"* → línea **Datos: Business Intelligence, Data Analytics, Minería de Datos, Data Science** de los lineamientos |
 | ¿Dónde se validará? | MAC Lima, programa Amigos del MAC | *"El escenario debe ser representativo"* → museo privado sin fines de lucro con programa de membresía |
@@ -179,6 +179,42 @@ permitan la preparación de la información para entrenamiento... entrenamiento 
 modelo"*, y que *"las historias de usuario o casos de uso deberán hacer referencia al modelo cuando
 lo utilicen"*. El diseño lo contempla.
 
+### A.11 El problema, según el método de la clase 2
+
+> `U1-S2-1. Definición del problema.pdf` exige una secuencia:
+> **hechos y factores → síntomas → causas → efectos → diagnóstico → pronóstico → formulación**
+
+El análisis completo está en `3-documento/trabajo/analisis-del-problema.md`. En resumen:
+
+**Problema central:** la base de aportantes no crece — 1 conversión en 1 080 miembros desde 2023,
+equivalente a **0,09 %**.
+
+**Cadena causal:** sin registro estructurado no se puede segmentar; sin segmentar no se puede
+priorizar; sin priorizar, no se convierte a nadie.
+
+**Efecto:** el museo depende de 30 aportantes para cubrir más de la mitad de su operación, con
+una concentración crítica en 5 organizaciones.
+
+**Pronóstico:** si la situación continúa, la base no crece y cualquier deserción entre esas
+organizaciones compromete la operación.
+
+**Decisión analítica que conviene poder explicar:** se evaluó si la gestión manual es un segundo
+problema o una causa del primero. Se trata como **causa**, para mantener una sola cadena causal
+y evitar que el proyecto se ensanche. La trazabilidad entra además como **requisito** de la
+solución, no como objetivo aparte.
+
+### A.12 La formulación del problema como pregunta
+
+> *"Formular el problema en modo de pregunta, incluyendo el problema a resolver, técnica y
+> escenario. La respuesta a la pregunta debe ser la propuesta de solución (no se usa hipótesis)."*
+
+> **¿De qué manera un modelo de segmentación analítica, incorporado en un sistema de gestión de
+> donantes, podría incrementar la conversión de miembros no aportantes en aportantes en museos
+> privados sin fines de lucro?**
+
+Contiene técnica, problema y escenario, y su respuesta es la propuesta. Es el formato exacto del
+ejemplo oficial del documento.
+
 ---
 
 ## Parte B — Los puntos débiles, y cómo responderlos
@@ -186,19 +222,25 @@ lo utilicen"*. El diseño lo contempla.
 > Léelos antes de la reunión. Si los planteas tú primero, ganas credibilidad;
 > si los saca él y no tienes respuesta, la pierdes.
 
-### B.1 «¿Por qué no compran un CRM comercial?»
+### B.1 «¿Por qué no compran un CRM comercial?» — **ya no es un flanco**
 
-**Es la pregunta más probable y la más peligrosa.** Salesforce Nonprofit Cloud, DonorPerfect y
-Bloomerang existen y son productos maduros.
+Esta era la pregunta más peligrosa. El documento de la clase 2 la convierte en **sección
+obligatoria** de Antecedentes:
 
-**Respuesta honesta:** el aporte de la tesis **no es el CRM**. Es el modelo de segmentación que
-prioriza prospectos dentro de una base de miembros que **nunca han aportado**, usando solo
-variables demográficas. Los CRM comerciales gestionan la relación con donantes **existentes**;
-no resuelven a quién de 1 080 personas sin historial de donación conviene dirigirse.
+> *"Los enfoques, métodos y técnicas de soluciones que existen en el mercado (a problemas
+> similares al tema del proyecto), sus resultados, analizando **por qué estas no se ajustan** o a
+> aspectos que siguen sin respuesta a las características del problema delimitado"*
 
-**Estado real:** este argumento todavía **no está respaldado con literatura**. Está pendiente
-como hueco #4 del sustento. Si el asesor insiste, lo honesto es decir que se está construyendo
-la evidencia, no improvisar.
+O sea: no es un riesgo que sortear, es un apartado que hay que escribir igual. Pasa de **riesgo**
+a **tarea**.
+
+**El argumento de fondo:** el aporte no es el CRM. Es el modelo de segmentación que prioriza
+prospectos dentro de una base de miembros que **nunca han aportado**, usando solo variables
+demográficas. Los CRM comerciales gestionan la relación con donantes **existentes**; no resuelven
+a quién de 1 080 personas sin historial de donación conviene dirigirse.
+
+**Estado real:** el argumento todavía **no está respaldado con literatura** — es el hueco #4 del
+sustento. Si el asesor insiste, decir que la evidencia se está construyendo, no improvisar.
 
 ### B.2 «¿Segmentar 1 080 registros con 5 variables es aporte suficiente?»
 
@@ -238,7 +280,25 @@ Los lineamientos exigen *"información primaria cuantitativa referenciada"*. Los
 son primarios pero **todavía no hay documento que los respalde**. Está pendiente y es tarea del
 equipo conseguirlo del museo.
 
-### B.7 Las empresas: alcance por definir
+### B.8 «¿Cuáles son las causas raíz?» — flanco nuevo
+
+El documento de la clase 2 exige identificar **causas**, no solo síntomas. Hoy las causas que
+tenemos son **hipótesis derivadas de la observación**, no hallazgos con datos.
+
+**Es defendible** —estamos en la semana 2 y el análisis con datos viene después— **pero hay que
+presentarlas como hipótesis, no como conclusiones**. Decir "estas son las causas" cuando aún no
+se midió nada es exactamente lo que un asesor detecta.
+
+La respuesta correcta: *"Estas son las causas que hipotetizamos a partir de la observación
+directa del proceso; el objetivo específico 1 es precisamente validarlas con el diagnóstico."*
+
+### B.9 «¿Es un problema o son dos?»
+
+Puede preguntarlo, porque el planteamiento menciona baja conversión **y** gestión manual.
+Respuesta preparada en A.11: es **uno**, y la gestión manual es causa. Plantéalo tú primero;
+demuestra que hiciste el análisis causal y no solo la lista de quejas.
+
+### B.10 Las empresas: alcance por definir
 
 Ver pregunta #12. Hay título de repliegue preparado si el asesor considera que la prospección
 corporativa no es viable. Y hay un dato de la literatura que respalda su cautela: Jensen et al.
@@ -258,6 +318,7 @@ Decir de más aquí es lo que más rápido destruye la credibilidad.
 | Que la conversión del MAC (0,09 %) es peor que el 14,1 % de la literatura | **No son poblaciones comparables**: los de Hesse ya habían donado una vez |
 | Que el modelo alcanzará cierta exactitud | No hay datos procesados todavía |
 | Que un CRM comercial no sirve | Aún sin respaldo en literatura |
+| Que las causas identificadas **son** las causas | Son hipótesis de observación; falta validarlas con datos |
 
 ---
 
@@ -268,6 +329,7 @@ Llevar preguntas propias demuestra preparación. Las cuatro con más impacto:
 1. **¿Segmentar 1 080 registros con variables demográficas es aporte suficiente, o espera mayor profundidad técnica?** (pregunta #12)
 2. **¿Incluimos la prospección de empresas como objetivo secundario con validación por experto, o acotamos solo a la conversión de miembros?** (#12)
 3. **¿Confirma el enfoque de Desarrollo de Soluciones con método ágil?** (#11)
+3b. **¿Le parece correcto tratar la gestión manual como causa de la baja conversión, y no como un segundo problema?**
 4. **¿Hay formato oficial para el informe de análisis de artículos de la semana 6?** (#3)
 
 Y las administrativas, que tienen plazo encima: el canal de entrega de las dos cartas (#7) y el
