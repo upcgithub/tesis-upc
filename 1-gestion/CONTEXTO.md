@@ -284,4 +284,4 @@ Consultas sobre elaboración → al **asesor**. Consultas de gestión → a **co
     captación y fidelización de aportes en museos privados sin fines de lucro*
   - Plazo para cambiar alcance sin control de cambios: **semana 4 (21-27 sep)**
 - **Próximo entregable:** Plan de Trabajo de Investigación — semana 2
-- **Preguntas abiertas:** 12 → ver `preguntas-abiertas.md`
+- **Preguntas abiertas:** 13 → ver `preguntas-abiertas.md`

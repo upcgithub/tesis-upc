@@ -293,6 +293,59 @@ La alternativa sería validar la *calidad de la priorización* por juicio de exp
 
 - **Respuesta:** _(pendiente)_
 
+### #13 — ¿El problema debe estar explícito en el título?
+
+- **A quién:** Asesor · **Estado:** abierta · **Prioridad:** alta
+- **Por qué importa:** el título es lo primero que se evalúa y encabeza los tres ciclos.
+  Corregirlo ahora no cuesta nada; corregirlo en la semana 8 sí.
+
+**Lo que dice la fórmula del curso** (idéntica en las clases 1 y 2):
+
+```
+Aporte + para solucionar un + Problema + usando una + Técnica + a ser validado en un + Escenario
+```
+
+**Pero la evidencia es contradictoria:**
+
+| Fuente | ¿El problema va explícito en el título? |
+|---|---|
+| La fórmula del material | Sí, los cuatro componentes |
+| Ejemplos del curso (6 revisados) | 4 de 6 sí. *"Sistema de recomendación de paquetes turísticos nacionales…"* no |
+| Tesis reales del repositorio UPC (3 revisadas) | Casi ninguna. Nombran **el objeto o la tarea**, no la deficiencia. Varias omiten incluso la técnica |
+
+*Salvedad: muestra pequeña, de búsqueda web, no sistemática. Al menos una es trabajo de
+suficiencia profesional y algunas son de Ingeniería de Sistemas de Información.*
+
+**Las dos versiones a consultar:**
+
+**Versión 1 — actual** (el problema queda implícito, como en la mayoría de tesis aprobadas):
+> Sistema de gestión y priorización de **prospectos de aporte** con segmentación analítica
+> para museos privados sin fines de lucro
+
+**Versión 2 — problema explícito** (sigue la fórmula al pie de la letra):
+> Sistema de gestión y priorización de prospectos usando segmentación analítica para
+> **la conversión de miembros no aportantes** en museos privados sin fines de lucro
+
+> **Pregunta literal:**
+> "Profesor, tenemos una duda sobre el título. La fórmula del material indica que debe contener
+> aporte, problema, técnica y escenario. En nuestra versión actual el problema queda implícito:
+> decimos 'priorización de prospectos de aporte', que nombra el objeto, pero no la baja conversión
+> que es el problema.
+>
+> Revisamos los ejemplos del curso y algunas tesis del repositorio, y vemos que muchos títulos
+> aprobados también nombran el objeto o el proceso en lugar de la deficiencia.
+>
+> Le traemos dos versiones:
+> 1. *Sistema de gestión y priorización de prospectos de aporte con segmentación analítica para
+>    museos privados sin fines de lucro*
+> 2. *Sistema de gestión y priorización de prospectos usando segmentación analítica para la
+>    conversión de miembros no aportantes en museos privados sin fines de lucro*
+>
+> ¿Cuál se ajusta mejor a lo que evalúa la rúbrica de este ciclo? ¿Es exigible que el problema
+> aparezca explícito, o basta con que esté desarrollado en la descripción del tema?"
+
+- **Respuesta:** _(pendiente)_
+
 ---
 
 ## Respondidas
