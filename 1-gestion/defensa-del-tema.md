@@ -280,7 +280,7 @@ Los lineamientos exigen *"información primaria cuantitativa referenciada"*. Los
 son primarios pero **todavía no hay documento que los respalde**. Está pendiente y es tarea del
 equipo conseguirlo del museo.
 
-### B.8 «¿Cuáles son las causas raíz?» — flanco nuevo
+### B.7 «¿Cuáles son las causas raíz?» — flanco nuevo
 
 El documento de la clase 2 exige identificar **causas**, no solo síntomas. Hoy las causas que
 tenemos son **hipótesis derivadas de la observación**, no hallazgos con datos.
@@ -292,15 +292,15 @@ se midió nada es exactamente lo que un asesor detecta.
 La respuesta correcta: *"Estas son las causas que hipotetizamos a partir de la observación
 directa del proceso; el objetivo específico 1 es precisamente validarlas con el diagnóstico."*
 
-### B.9 «¿Es un problema o son dos?»
+### B.8 «¿Es un problema o son dos?»
 
 Puede preguntarlo, porque el planteamiento menciona baja conversión **y** gestión manual.
 Respuesta preparada en A.11: es **uno**, y la gestión manual es causa. Plantéalo tú primero;
 demuestra que hiciste el análisis causal y no solo la lista de quejas.
 
-### B.10 Las empresas: alcance por definir
+### B.9 Las empresas: alcance por definir
 
-Ver pregunta #12. Hay título de repliegue preparado si el asesor considera que la prospección
+Ver pregunta #12 de `preguntas-abiertas.md`. Hay título de repliegue preparado si el asesor considera que la prospección
 corporativa no es viable. Y hay un dato de la literatura que respalda su cautela: Jensen et al.
 (2026) encuentran que los aportes mayores **no** se predicen por eventos ni sistemas, sino por
 trato uno a uno y capacidad económica del donante.
