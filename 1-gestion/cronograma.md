@@ -65,7 +65,7 @@ De los *Lineamientos cursos Capstone 2026-25*, sección VI.
 | Cada semana | Detalle |
 |---|---|
 | **Acta de asesoría** | Se presenta como máximo **antes de la siguiente asesoría**. El asesor responde o da conformidad. Va en `1-gestion/asesorias/` |
-| **Actualizar el Site del Proyecto** | En SharePoint, al menos semanalmente: versiones de entregables, actas y plan de actividades |
+| **Actualizar el Site del Proyecto** | En SharePoint, al menos semanalmente. Estructura y nomenclatura obligatorias → `CONTEXTO.md` §8. Si no se puede asistir a una asesoría, se actualiza igual antes de la sesión |
 | **Asistir a la asesoría** | La inasistencia se registra en el sistema |
 
 > *"El cumplimiento de las actas de reunión, actualización del site de su proyecto y asistencia en

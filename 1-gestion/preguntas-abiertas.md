@@ -143,9 +143,8 @@ acta (`asesorias/`) y aquí → si cambia una regla, se actualiza `CONTEXTO.md` 
 - **Por qué importa:** **vencen en la semana 3**. Es el plazo más cercano de todo el ciclo.
 - **Ya resuelto:** los dos formatos están en `6-material-oficial/general/`
   (*Carta compromiso* y *Carta de responsabilidad de uso de IA*).
-- **Parcialmente resuelto:** los lineamientos Capstone aclaran que el **código de proyecto** viene
-  del **Site del Proyecto** que asigna coordinación, y que **una vez asignado no se puede cambiar**.
-  Falta saber si ya nos lo asignaron → pregunta #8.
+- **✅ Resuelto:** el **código de proyecto es 262-2270-12-JP** (ver #8, cerrada). Con eso ya se
+  pueden llenar las dos cartas por completo.
 - **Lo que falta:** el canal de entrega de las cartas firmadas.
 
 > **Pregunta literal:**
@@ -160,43 +159,6 @@ integrantes; código de proyecto; fecha.
 
 ---
 
-### #8 — Site del Proyecto y código de proyecto
-
-- **A quién:** Coordinación (`pi-coordinacion-adts@upc.edu.pe`) · **Estado:** abierta · **Prioridad:** alta
-- **Por qué importa:** los lineamientos exigen **actualizar el Site del Proyecto al menos
-  semanalmente**, y eso *"forma parte de la Gestión del Proyecto, por lo que se considera en la
-  evaluación"*. Sin acceso al Site, esa parte de la nota no se puede cumplir. Además el código de
-  proyecto es dato obligatorio de la carta de IA, que vence en la semana 3.
-
-> **Pregunta literal:**
-> "Asunto: 1FIS0311: Semana 1: Acceso al Site del Proyecto
->
-> Buenos días. Soy alumno del curso 1FIS0311 – Seminario de Investigación Aplicada (2026-25),
-> con el asesor Julio César Zácari Ramos. Según los lineamientos de cursos Capstone, cada proyecto
-> tiene un Site propio identificado con su código de proyecto, que debe actualizarse semanalmente.
-> ¿Ya nos fue asignado el Site y el código de nuestro proyecto? ¿Cómo accedemos?
-> Lo consulto porque el código es un dato requerido en la Declaración ética sobre uso de IA que
-> debemos presentar firmada en la semana 3. Gracias."
-
-- **Respuesta:** _(pendiente)_
-
----
-
-### #9 — Estructura de carpetas del Site del Proyecto
-
-- **A quién:** Asesor · **Estado:** abierta · **Prioridad:** media
-- **Por qué importa:** los lineamientos dicen que la estructura *"se indica en la carpeta de
-  Documentos del curso en el Site del curso"*, pero no la incluyen. Conviene montarla bien desde
-  el inicio y no reorganizar a mitad de ciclo.
-
-> **Pregunta literal:**
-> "Los lineamientos indican que el Site del Proyecto debe estar organizado por carpetas según una
-> estructura publicada en el Site del curso. ¿Dónde la encuentro exactamente? ¿Y qué debe subirse
-> cada semana: solo las versiones de entregables y actas, o también material de trabajo intermedio?"
-
-- **Respuesta:** _(pendiente)_
-
----
 
 ### #10 — Usuario del escenario
 
@@ -237,112 +199,28 @@ integrantes; código de proyecto; fecha.
 
 ---
 
-### #12 — Alcance del tema: ¿incluir prospección de empresas?
 
-- **A quién:** Asesor · **Estado:** abierta · **Prioridad:** máxima
-- **Por qué importa:** define el alcance del proyecto para los tres ciclos. Hay que resolverlo
-  **antes de la semana 4** (21-27 sep), que es el límite para cambiar tema o alcance sin
-  documento de control de cambios.
-
-**Contexto del escenario (MAC Lima):**
-
-| | Cantidad | Datos disponibles |
-|---|---|---|
-| Amigos vecinos (sin aporte) | 1080 | antigüedad, nombre, dirección, teléfono, edad, sexo |
-| Amigos aportantes — personas | 25 | Excel desde 2023 |
-| Amigos aportantes — empresas | 5 | todo en correos |
-| Conversiones históricas vecino → aportante | **1** | tasa de 0,09 % |
-
-Aportes **anuales**; los aportantes renuevan **en su aniversario** (distribuidos en el año),
-los vecinos se renuevan automáticamente. Captación actual: por eventos.
-Emisión de credencial digital: **2 días**, manual.
-
-**Título propuesto (opción amplia):**
-> Sistema de gestión y priorización de prospectos de aporte con segmentación analítica para
-> museos privados sin fines de lucro
-
-**Título de repliegue (si las empresas no son viables):**
-> Sistema de gestión y conversión de donantes con segmentación analítica para incrementar la
-> captación y fidelización de aportes en museos privados sin fines de lucro
-
-**El riesgo que preocupa:** con 5 empresas donantes no hay datos internos para modelar propensión,
-y el ciclo de decisión de un patrocinio corporativo supera la ventana de validación de PI-2 (~4 meses).
-La alternativa sería validar la *calidad de la priorización* por juicio de experto, no la captación real.
-
-> **Pregunta literal:**
-> "Profesor, le comparto el escenario de nuestro proyecto: el MAC Lima tiene 1080 miembros
-> 'vecinos' sin aporte, 25 aportantes personas y 5 aportantes empresa. Históricamente solo un
-> vecino se ha convertido en aportante, o sea una tasa de conversión de 0,09 %, y toda la gestión
-> de aportes, comprobantes y credenciales se hace hoy por correo, sin sistema.
->
-> Nuestra propuesta es un sistema de gestión que incorpore un modelo de segmentación analítica
-> para priorizar a quién dirigir las campañas de conversión.
->
-> Tenemos una duda de alcance. Nos interesa incluir también la prospección de nuevos aportantes
-> empresa, pero vemos dos riesgos: con solo 5 empresas donantes no hay datos internos suficientes
-> para un modelo de propensión, y el ciclo de decisión de un patrocinio corporativo probablemente
-> excede la ventana de validación de PI-2.
->
-> ¿Recomienda incluir las empresas como objetivo específico secundario, validado por juicio de
-> experto en lugar de por captación real? ¿O es preferible acotar el proyecto solo a la conversión
-> de miembros no aportantes, donde sí tenemos datos y línea base?
->
-> Y una segunda duda: ¿le parece que la segmentación de 1080 registros con variables demográficas,
-> enriquecida con datos públicos por distrito, constituye aporte suficiente para la tesis, o
-> esperaría una técnica de mayor profundidad?"
-
-- **Respuesta:** _(pendiente)_
-
-### #13 — ¿El problema debe estar explícito en el título?
+### #14 — ¿Cómo se llaman realmente los entregables de SIA?
 
 - **A quién:** Asesor · **Estado:** abierta · **Prioridad:** alta
-- **Por qué importa:** el título es lo primero que se evalúa y encabeza los tres ciclos.
-  Corregirlo ahora no cuesta nada; corregirlo en la semana 8 sí.
+- **Por qué importa:** define cómo se nombran los archivos que se suben al Site, y la nomenclatura
+  es obligatoria. Equivocarse implica renombrar todo después.
+- **El conflicto:**
 
-**Lo que dice la fórmula del curso** (idéntica en las clases 1 y 2):
-
-```
-Aporte + para solucionar un + Problema + usando una + Técnica + a ser validado en un + Escenario
-```
-
-**Pero la evidencia es contradictoria:**
-
-| Fuente | ¿El problema va explícito en el título? |
+| Fuente | Entregables de SIA |
 |---|---|
-| La fórmula del material | Sí, los cuatro componentes |
-| Ejemplos del curso (6 revisados) | 4 de 6 sí. *"Sistema de recomendación de paquetes turísticos nacionales…"* no |
-| Tesis reales del repositorio UPC (3 revisadas) | Casi ninguna. Nombran **el objeto o la tarea**, no la deficiencia. Varias omiten incluso la técnica |
+| `Línea de tiempo-202625.pdf` | **TB1** (sem. 7) · **TB2** (sem. 11) · **TB3** y **DD** (sem. 15) |
+| `Estructura de carpetas` v6.0 | **TB1 · TP1 · TB2 · TF · IA** |
 
-*Salvedad: muestra pequeña, de búsqueda web, no sistemática. Al menos una es trabajo de
-suficiencia profesional y algunas son de Ingeniería de Sistemas de Información.*
-
-**Las dos versiones a consultar:**
-
-**Versión 1 — actual** (el problema queda implícito, como en la mayoría de tesis aprobadas):
-> Sistema de gestión y priorización de **prospectos de aporte** con segmentación analítica
-> para museos privados sin fines de lucro
-
-**Versión 2 — problema explícito** (sigue la fórmula al pie de la letra):
-> Sistema de gestión y priorización de prospectos usando segmentación analítica para
-> **la conversión de miembros no aportantes** en museos privados sin fines de lucro
+Aparece un **TP1** que no figura en la línea de tiempo, y un **TF** donde la línea de tiempo
+habla de TB3 y DD. La carpeta `05. IA` es para los informes de artículos y los PDFs originales.
 
 > **Pregunta literal:**
-> "Profesor, tenemos una duda sobre el título. La fórmula del material indica que debe contener
-> aporte, problema, técnica y escenario. En nuestra versión actual el problema queda implícito:
-> decimos 'priorización de prospectos de aporte', que nombra el objeto, pero no la baja conversión
-> que es el problema.
->
-> Revisamos los ejemplos del curso y algunas tesis del repositorio, y vemos que muchos títulos
-> aprobados también nombran el objeto o el proceso en lugar de la deficiencia.
->
-> Le traemos dos versiones:
-> 1. *Sistema de gestión y priorización de prospectos de aporte con segmentación analítica para
->    museos privados sin fines de lucro*
-> 2. *Sistema de gestión y priorización de prospectos usando segmentación analítica para la
->    conversión de miembros no aportantes en museos privados sin fines de lucro*
->
-> ¿Cuál se ajusta mejor a lo que evalúa la rúbrica de este ciclo? ¿Es exigible que el problema
-> aparezca explícito, o basta con que esté desarrollado en la descripción del tema?"
+> "Profesor, revisando el documento de Estructura de carpetas vemos que las subcarpetas de SIA son
+> TB1, TP1, TB2, TF e IA. En cambio la línea de tiempo del ciclo menciona TB1, TB2, TB3 y DD.
+> ¿Cómo corresponden entre sí? ¿El TP1 es una entrega adicional que aún no está en el cronograma,
+> y el TF equivale a TB3 más DD?
+> Se lo consultamos porque la nomenclatura de los archivos que subimos al Site depende de eso."
 
 - **Respuesta:** _(pendiente)_
 
@@ -350,7 +228,34 @@ suficiencia profesional y algunas son de Ingeniería de Sistemas de Información
 
 ## Respondidas
 
-_(vacío)_
+### #8 — Site del Proyecto y código de proyecto ✅ RESUELTA (2026-09-13)
+
+- **Respuesta:** el código de proyecto es **262-2270-12-JP**, asignado por coordinación y
+  **no modificable**. Con esto se desbloquea el llenado de la Declaración ética de uso de IA,
+  que lo pedía como dato obligatorio.
+- **Pendiente menor:** confirmar que el repositorio del Site ya esté habilitado. La indicación
+  recibida dice *"cuando les habiliten el repositorio de su código de proyecto"*.
+
+### #9 — Estructura de carpetas del Site del Proyecto ✅ RESUELTA (2026-09-13)
+
+- **Respuesta:** llegó el documento `Estructura de carpetas - Proyectos de Investigación 2025-01.pdf`
+  (v6.0), archivado en `6-material-oficial/general/`. La estructura completa y la nomenclatura
+  obligatoria están transcritas en `CONTEXTO.md` §8.
+- **Indicación recibida:** habilitar la estructura y sus contenidos cuando se habilite el
+  repositorio, **dando foco a SIA**.
+
+### #12 y #13 — ❌ OBSOLETAS (2026-09-13)
+
+Ambas eran sobre el tema anterior (conversión de Amigos del MAC), descartado.
+Se conservan en `7-archivo/tema-descartado-amigos-del-mac/` por si el análisis sirve de referencia.
+
+- **#12** — alcance del tema: ¿incluir prospección de empresas?
+- **#13** — ¿el problema debe ir explícito en el título?
+
+> **#13 sigue siendo relevante en el fondo**, y conviene replantearla para el título nuevo.
+> El título de MAC Anticipa **sí incluye el problema explícito** — *"reducir la incertidumbre en
+> la planificación operativa"* — así que probablemente ya no haga falta preguntarlo.
+
 
 ---
 

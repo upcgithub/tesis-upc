@@ -4,7 +4,7 @@
 > Todo lo de aquí está transcrito del material oficial en `6-material-oficial/`.
 > Si algo no está aquí ni en el material oficial, **no se asume: se anota en
 > `preguntas-abiertas.md` y se pregunta.**
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-13
 
 ---
 
@@ -231,6 +231,47 @@ validará la solución (Product Owner si el método es ágil). Por segregación 
 Participa en el diagnóstico de la situación problemática, provee información para el análisis y
 desarrollo, y participa en el diseño y validación de la solución.
 
+### Estructura obligatoria del Site del Proyecto
+
+De `Estructura de carpetas - Proyectos de Investigación 2025-01.pdf` (v6.0, Yolfer Hernández).
+**Se actualiza al menos semanalmente**, y si no se puede asistir a una asesoría, se actualiza
+igual antes de la sesión.
+
+```
+01. Proyecto de Investigación
+    01. SIA          01.TB1 · 02.TP1 · 03.TB2 · 04.TF · 05.IA (informes de artículos + PDFs originales)
+    02. PI1          01.TB1 · 02.TP1 · 03.TB2 (incluye Short Paper) · 04.TF
+    03. PI2          01.TB1 · 02.TP1 · 03.TB2 (incluye Full Paper) · 04.TF
+02. Gestión del Proyecto
+    01. Plan Trabajo                    cronograma en Excel o Project
+    02. Documentos de Gestión           Alcance, Costos, Riesgos, Calidad
+    03. Comunicaciones
+        01 Actas de reuniones de equipo
+        02 Actas de asesorías           semanales, firmadas o aceptadas por correo
+        03 Cartas                       presentación, compromiso, renuncia
+03. Archivos complementarios
+    01. Aplicación                      código fuente comprimido + ejecutable
+    02. Documentos de Trabajo           imágenes, gráficos, diagramas
+```
+
+**Nomenclatura obligatoria** (código de proyecto: `262-2270-12-JP`):
+
+| Tipo | Formato | Ejemplo |
+|---|---|---|
+| Entregable | `<Código>-<Curso>-<Entregable> v.M.n.docx` | `262-2270-12-JP-SIA-TB1 v.1.0.docx` |
+| Presentación | `<Código>-Presentación.pptx` | `262-2270-12-JP-Presentación.pptx` |
+| Acta de asesoría | `<Código>-<Curso>-<Tipo asesor>-<Acta##>` | `262-2270-12-JP-SIA-AP-ACTA01.docx` |
+| Plan de trabajo | `<Código>-Plan de trabajo v.M.n.xlsx` | |
+| Doc. de gestión | `<Código>-<Nombre> v.M.n.docx` | |
+
+**Versionamiento `v.M.n`:** `M` cambia con actualizaciones significativas; `n`, con cambios de
+forma o corrección de errores.
+
+`AP` = asesor de proyecto · `AE` = asesor especialista.
+
+> ⚠️ Esta estructura nombra los entregables de SIA como **TB1, TP1, TB2, TF e IA**, mientras que
+> la línea de tiempo del ciclo los llama **TB1, TB2, TB3 y DD**. → **pregunta #14**.
+
 ### Correos a coordinación
 
 Asunto con el formato: `curso: código de proyecto: día de asesoría: requerimiento`
@@ -272,16 +313,20 @@ Consultas sobre elaboración → al **asesor**. Consultas de gestión → a **co
 > Actualizar cada semana. Es lo primero que se lee al retomar el trabajo.
 
 - **Ciclo:** 2026-25 · 1FIS0311 Seminario de Investigación Aplicada
-- **Semana actual:** 1 (31 ago – 6 sep 2026). La semana 2 inicia el **lunes 7 de septiembre**
+- **Semana actual:** 2 (7–13 sep 2026), cierra hoy. La **semana 3 inicia el lunes 14 de septiembre**
 - **Compañera de equipo:** Alejandra Perla Camere (u20231D871@upc.edu.pe)
 - **Asesor asignado:** MBA Ing. Julio César Zácari Ramos (pcisjzac@upc.edu.pe)
-- **Tema (propuesta preliminar, semana 2):**
-  *Sistema de gestión y priorización de prospectos de aporte con segmentación analítica para
-  museos privados sin fines de lucro*
-  - **Escenario:** Museo de Arte Contemporáneo de Lima (MAC)
-  - **Repliegue** si el asesor descarta la prospección de empresas (pregunta #12):
-    *Sistema de gestión y conversión de donantes con segmentación analítica para incrementar la
-    captación y fidelización de aportes en museos privados sin fines de lucro*
-  - Plazo para cambiar alcance sin control de cambios: **semana 4 (21-27 sep)**
-- **Próximo entregable:** Plan de Trabajo de Investigación — semana 2
-- **Preguntas abiertas:** 13 → ver `preguntas-abiertas.md`
+- **Código de proyecto:** **262-2270-12-JP** *(asignado por coordinación, no modificable)*
+- **Tema (propuesta preliminar, semana 2) — «MAC Anticipa»:**
+  *Sistema predictivo de afluencia de visitantes mediante modelos de series temporales y
+  aprendizaje automático para reducir la incertidumbre en la planificación operativa de museos
+  con datos limitados*
+  - **Aporte:** sistema predictivo explicable de apoyo a decisiones
+  - **Problema:** ausencia de estimaciones confiables y oportunas sobre la afluencia futura
+  - **Técnica:** series temporales, regresión y aprendizaje automático, validación temporal,
+    análisis de importancia de variables
+  - **Escenario:** museos con datos limitados; validación en el MAC Lima
+  - Sustituye al tema anterior (conversión de Amigos del MAC), archivado en
+    `7-archivo/tema-descartado-amigos-del-mac/`
+- **Próximo entregable:** **semana 3 (14–20 sep)** — entregar firmadas la Carta de compromiso y la Declaración ética de uso de IA. Plazo máximo.
+- **Preguntas abiertas:** 10 → ver `preguntas-abiertas.md`
